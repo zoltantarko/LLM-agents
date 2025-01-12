@@ -18,16 +18,30 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Fetch subreddits from the Reddit API
 def get_relevant_subreddits(keyword):
-    url = f"https://www.reddit.com/subreddits/search.json?q={keyword}"
+    url = f"https://www.reddit.com/subreddits/search.json"
     headers = {"User-Agent": "career-transition-scraper"}
-    response = requests.get(url, headers=headers)
-    subreddits = [item['data']['display_name'] for item in response.json()['data']['children']]
+    subreddits = []
+    after = None
+
+    while True:
+        params = {"q": keyword, "after": after}
+        response = requests.get(url, headers=headers, params=params)
+        data = response.json()
+        
+        # Collect the current page of subreddits
+        subreddits.extend([item['data']['display_name'] for item in data['data']['children']])
+        
+        # Check if there's another page
+        after = data['data'].get('after')
+        if not after:
+            break  # No more results, exit the loop
+
     return subreddits
 
 # Use ChatGPT to filter the subreddits
 def filter_subreddits_with_chatgpt(subreddits):
     messages = [
-        {"role": "system", "content": "You are an expert in IT career transitions. Identify which of the following subreddits are most relevant for discussing IT career changes and challenges. Your output should ONLY contain the filtered subreddit list."},
+        {"role": "system", "content": "You are an expert in IT career transitions. Identify which of the following subreddits are the relevant for discussing IT career changes and challenges. Your output should ONLY contain the filtered subreddit list without any additional string."},
         {"role": "user", "content": f"Subreddits: {', '.join(subreddits)}"}
     ]
     response = client.chat.completions.create(
@@ -69,15 +83,16 @@ def scrape_reddit(subreddits, keywords, limit=20):
 
         # Sleep to avoid hitting Reddit's rate limit
         time.sleep(1)
+    print("Collected subreddits: ",len(data))
     return data
 
 # Run the workflow
-search_term = "IT careers"
+search_term = "\"IT career\""
 subreddits = get_relevant_subreddits(search_term)
 print(f"Subreddits found: {subreddits}")
 
-filtered_subreddits = filter_subreddits_with_chatgpt(subreddits)
-#filtered_subreddits = ['ITCareers','cscareerquestions','ITCareerSecrets','SecurityCareerAdvice']
+#filtered_subreddits = filter_subreddits_with_chatgpt(subreddits)
+filtered_subreddits = ['ITCareerQuestions', 'ITCareerAnalytics', 'sysadmin', 'CompTIA', 'ITCareers', 'itcareerswitch', 'InformationTechnology', 'careerguidance', 'itcareeradvice', 'ITCareer_Discussion', 'findapath', 'it', 'ITCareerSecrets', 'ITcareerNinja', 'cscareerquestions', 'ITCareerGuide', 'ExperiencedDevs', 'helpdeskcareer', 'ExperienceDevsRead', 'careeradvice', 'ITdept', 'ITManagers', 'ccna']
 print(f"Filtered Subreddits by ChatGPT: {filtered_subreddits}")
 
 data = scrape_reddit(filtered_subreddits, ["career change", "job transition"])

@@ -19,7 +19,7 @@ def extract_comment_pain_points(submissions):
             "The comments below express various views on the content. Extract 5 main pain points from the comments, "
             "considering the context provided in the title and content of the post:\n"
             "\n" + "\n".join(comments) + "\n\n"
-            "Return an itemized summary of the key pain points."
+            "Return an itemized summary of the key pain points. The output should ONLY contain the comma-separated-answers"
         )
 
         try:

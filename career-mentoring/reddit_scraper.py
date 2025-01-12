@@ -14,7 +14,6 @@ reddit = praw.Reddit(
     client_secret=os.getenv("REDDIT_CLIENT_SECRET"),
     user_agent=os.getenv("REDDIT_USER_AGENT")
 )
-#openai.api_key = os.getenv("OPENAI_API_KEY")
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Fetch subreddits from the Reddit API
@@ -28,11 +27,11 @@ def get_relevant_subreddits(keyword):
 # Use ChatGPT to filter the subreddits
 def filter_subreddits_with_chatgpt(subreddits):
     messages = [
-        {"role": "system", "content": "You are an expert in IT career transitions. Identify which of the following subreddits are most relevant for discussing IT career changes and challenges."},
+        {"role": "system", "content": "You are an expert in IT career transitions. Identify which of the following subreddits are most relevant for discussing IT career changes and challenges. Your output should ONLY contain the filtered subreddit list."},
         {"role": "user", "content": f"Subreddits: {', '.join(subreddits)}"}
     ]
     response = client.chat.completions.create(
-        model="gpt-4",
+        model="gpt-3.5-turbo",
         messages=messages,
         max_tokens=500
     )
@@ -50,6 +49,8 @@ def scrape_reddit(subreddits, keywords, limit=20):
                 print("Searching for keyword: ", keyword)
                 for submission in reddit.subreddit(subreddit).search(keyword, limit=limit):
                     print("Processing submission: ", submission.title)
+                    if keyword not in (submission.title or submission.selftext):
+                        continue
                     comments = [comment.body for comment in submission.comments if hasattr(comment, "body")]
                     data.append({
                         "title": submission.title,
@@ -79,7 +80,7 @@ filtered_subreddits = filter_subreddits_with_chatgpt(subreddits)
 #filtered_subreddits = ['ITCareers','cscareerquestions','ITCareerSecrets','SecurityCareerAdvice']
 print(f"Filtered Subreddits by ChatGPT: {filtered_subreddits}")
 
-data = scrape_reddit(filtered_subreddits, ["career change", "burnout", "job transition"])
+data = scrape_reddit(filtered_subreddits, ["career change", "job transition"])
 with open("filtered_reddit_data.json", "w") as f:
     json.dump(data, f, indent=4)
 

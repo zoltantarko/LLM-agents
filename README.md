@@ -1,6 +1,6 @@
 # Project Name
 
-Brief project description goes here.
+This project is for my experiments on how to implement and use LLM agents.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -41,9 +41,9 @@ To use the project, follow these steps:
     * After installing a new package with `pip install <package>`, update the `requirements.txt`:
     ``` bash
     pip freeze > requirements.txt
-3. Run the main script
+3. Navigate to the selected directory and run the selected script:
     ``` bash 
-    python main.py
+    python reddit_scraper.py
 
 4. To deactivate the virtual environment:
     ```bash

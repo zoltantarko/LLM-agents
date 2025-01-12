@@ -1,9 +1,11 @@
 import praw
-import openai
+from openai import OpenAI
 import json
 import os
 import requests
 from dotenv import load_dotenv
+from praw.exceptions import PRAWException
+import time
 
 # Load API keys
 load_dotenv()
@@ -12,7 +14,8 @@ reddit = praw.Reddit(
     client_secret=os.getenv("REDDIT_CLIENT_SECRET"),
     user_agent=os.getenv("REDDIT_USER_AGENT")
 )
-openai.api_key = os.getenv("OPENAI_API_KEY")
+#openai.api_key = os.getenv("OPENAI_API_KEY")
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Fetch subreddits from the Reddit API
 def get_relevant_subreddits(keyword):
@@ -28,26 +31,43 @@ def filter_subreddits_with_chatgpt(subreddits):
         {"role": "system", "content": "You are an expert in IT career transitions. Identify which of the following subreddits are most relevant for discussing IT career changes and challenges."},
         {"role": "user", "content": f"Subreddits: {', '.join(subreddits)}"}
     ]
-    response = openai.ChatCompletion.create(
+    response = client.chat.completions.create(
         model="gpt-4",
         messages=messages,
         max_tokens=500
     )
-    filtered_subreddits = response['choices'][0]['message']['content'].split(", ")
+    filtered_subreddits = response.choices[0].message.content.split(", ")
     return filtered_subreddits
 
 # Scrape posts from filtered subreddits
 def scrape_reddit(subreddits, keywords, limit=20):
     data = []
     for subreddit in subreddits:
-        for keyword in keywords:
-            for submission in reddit.subreddit(subreddit).search(keyword, limit=limit):
-                comments = [comment.body for comment in submission.comments if hasattr(comment, "body")]
-                data.append({
-                    "title": submission.title,
-                    "content": submission.selftext,
-                    "comments": comments
-                })
+        print("Attempting to scrape subreddit: ", subreddit)
+        # Try-except block to skip problematic subreddits
+        try:
+            for keyword in keywords:
+                print("Searching for keyword: ", keyword)
+                for submission in reddit.subreddit(subreddit).search(keyword, limit=limit):
+                    print("Processing submission: ", submission.title)
+                    comments = [comment.body for comment in submission.comments if hasattr(comment, "body")]
+                    data.append({
+                        "title": submission.title,
+                        "content": submission.selftext,
+                        "comments": comments
+                    })
+        except PRAWException as e:
+            # Catch any PRAW specific errors (e.g., 403 errors)
+            print(f"Skipping subreddit {subreddit} due to error: {e}")
+        except requests.exceptions.RequestException as e:
+            # Catch HTTP request errors (e.g., 403 errors)
+            print(f"Skipping subreddit {subreddit} due to HTTP error: {e}")
+        except Exception as e:
+            # Catch any other unexpected errors
+            print(f"Skipping subreddit {subreddit} due to unexpected error: {e}")
+
+        # Sleep to avoid hitting Reddit's rate limit
+        time.sleep(1)
     return data
 
 # Run the workflow
@@ -56,6 +76,7 @@ subreddits = get_relevant_subreddits(search_term)
 print(f"Subreddits found: {subreddits}")
 
 filtered_subreddits = filter_subreddits_with_chatgpt(subreddits)
+#filtered_subreddits = ['ITCareers','cscareerquestions','ITCareerSecrets','SecurityCareerAdvice']
 print(f"Filtered Subreddits by ChatGPT: {filtered_subreddits}")
 
 data = scrape_reddit(filtered_subreddits, ["career change", "burnout", "job transition"])

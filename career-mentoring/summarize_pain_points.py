@@ -25,7 +25,7 @@ tfidf_vectorizer = TfidfVectorizer(stop_words='english')
 tfidf_matrix = tfidf_vectorizer.fit_transform(titles_and_contents)
 
 # Perform KMeans clustering
-num_clusters = 5  # Adjust as necessary
+num_clusters = 10  # Adjust as necessary
 kmeans = KMeans(n_clusters=num_clusters, random_state=42)
 kmeans.fit(tfidf_matrix)
 

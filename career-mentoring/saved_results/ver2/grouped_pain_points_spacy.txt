@@ -1,0 +1,2009 @@
+Group 1:
+  - Laying off experienced tech professionals struggle to find new jobs
+
+Group 2:
+  - Concern about making the wrong career choice
+  - Not all IT professionals make a substantial income; many are in entry-level roles with low wages.
+  - Job hopping for more skills and experience is essential especially if your current company isn't up to date with technology trends.
+  - Challenges in finding quality employers that do not require references.
+  - Concerns about job security despite promises of a promotion and raise.
+  - Uncertainty about the future and the possibility of being replaced once the transition is complete.
+  - Midlife crisis and the pressure to have career paths figured out by 30.
+  - Lack of purpose and joy in current job despite high salary.
+  - Desire for business ownership but uncertain about what type of business to start.
+  - Feeling unfulfilled and unable to imagine staying in current career for many more years.
+  - Struggling with the societal pressure to find a meaningful job that pays well.
+  - Challenges in accepting the reality of having to return to a previous career that caused immense discomfort.
+  - Concerns about the long-term viability and competitiveness of the chosen career path.
+  - Feeling stuck in a job that may lead to burnout without advancement prospects.
+  - Making clear the game dev experience as past not current on resume
+  - Expectation of long working hours and poor work-life balance in game development.
+  - Need to pay back for training if leaving the sales job early
+  - Filtering out non-support roles that may be included in IT support job listings
+  - Limited options for job roles that align with IT consultant skills and pay expectations with potential suggestions to consider non-profit or public sector for better appreciation.
+  - High expectations for someone just starting their career
+
+Group 3:
+  - Anxiety over investing time and money in cybersecurity career due to layoffs
+  - Uncertainty about returning to previous employer without significant changes in responsibilities
+  - Lack of confidence and motivation during the transition to a new career.
+  - Feeling trapped in current career paths and seeking inspiration to make a change.
+  - Uncertainty about starting salary in cybersecurity.
+  - Feeling bored with current job and seeking meaningful changes and opportunities for growth.
+
+Group 4:
+  - Desire for stability over passion
+
+Group 5:
+  - Skepticism towards following passion in cybersecurity
+
+Group 6:
+  - Need for continuous learning and specialized skills in cybersecurity
+
+Group 7:
+  - Doubt regarding the demand and stability of cybersecurity career after 2023
+
+Group 8:
+  - Reluctance toward the "passion" aspect of pursuing a career
+  - **Onboarding Process**: Take initiative in onboarding by identifying key individuals to connect with and proactively seeking introductions to relevant people in the organization.
+  - **Learning and Absorbing**: Take time to absorb the new codebase and processes before suggesting changes or making significant contributions to avoid potential challenges and misunderstandings.
+  - **Managing Expectations**: Set realistic expectations for yourself by acknowledging the learning curve and understanding that it takes time to make a significant impact in a new role.
+
+Group 9:
+  - Challenge of balancing personal interests with career prospects in IT
+  - Lack of discretion in job search leading to potential negative impact on current job.
+  - Challenges associated with companies not valuing employees beyond the initial hiring stage
+  - Experience of transitioning from contract to permanent roles with gradual salary increases over time.
+  - Burnout in current role with no clear career path
+
+Group 10:
+  - Transitioning from non-tech backgrounds to cybersecurity roles
+
+Group 11:
+  - Transitioning from education to IT field
+
+Group 12:
+  - Rapid job changes within IT
+  - Concerns about salary level and downleveling with specialization changes
+  - Increased stress levels and potential for significant career growth.
+
+Group 13:
+  - Salary progression concerns
+
+Group 14:
+  - Certification value and impact on salary
+  - Seeking advice on certifications for career progression
+
+Group 15:
+  - Uncertainty about pay levels in different regions
+  - Uncertainty about the true nature of the cloud engineering position being offered.
+  - Uncertainty about the effectiveness and value of certifications in the job market.
+  - Uncertainty about the effectiveness of bootcamps in securing jobs
+  - Discrepancies between the job market trends in the tech sector compared to other industries.
+  - Stagnation in skills and falling behind in the industry
+  - Low pay and unstable income in the gamedev industry.
+  - Challenges in making lateral moves within or to new companies
+  - Uncertainty about the value of certifications vs. degrees in the job market
+
+Group 16:
+  - Pressure to continuously study and obtain certifications
+  - Feeling overwhelmed by the process of laying down basic foundations for certifications.
+  - Uncertainty about the relevance of specific certifications and the necessity of multiple certifications.
+  - Limited support for further education and skills development
+  - Confusion over the role and importance of test automation
+
+Group 17:
+  - Comparing salaries to cost of living
+  - Pressure to specialize for higher salary positions
+
+Group 18:
+  - Handling rapid promotion and skill level expectations
+
+Group 19:
+  - Difficulty in securing entry-level IT job opportunities
+  - Dealing with negativity and age-related concerns in pursuing a career change.
+  - Difficulty in accessing entry-level roles without significant prior experience
+  - Potential for starting at entry-level call center job with paid training
+  - Adjustment to changes in work-life balance and job security
+  - Age-related barriers in hiring for key IT positions
+
+Group 20:
+  - Oversaturation in the IT market
+
+Group 21:
+  - Unrealistic expectations for entry-level roles
+
+Group 22:
+  - Importance of gaining experience over degrees or certifications
+  - Skill relevance: Highlighting the importance of aligning skills with industry demand and showcasing experience effectively.
+  - Importance of gaining experience and demonstrating leadership capabilities for higher-level roles.
+
+Group 23:
+  - Difficulty transitioning to Cybersecurity without relevant experience
+
+Group 24:
+  - Need for consistent learning in the IT industry
+  - Pressure to learn new skills and expand knowledge to stay relevant in the industry.
+  - Lack of empathy from some experienced professionals in the industry
+  - Just ask and express interest in the new role
+  - Highlight being the best option for the company to switch roles
+  - The preference for smart engineers over generalists in the industry.
+  - Concern about the need to learn new technologies beyond job requirements. Challenges extracted from the comments and content:
+  - Regional differences in job market and recruiter availability are important to consider with a focus on New England area for potential opportunities.
+  - Importance of enjoying the field and having basic aptitude for success in IT networking careers
+
+Group 25:
+  - Importance of broad knowledge before specializing
+
+Group 26:
+  - Lack of understanding about different IT roles beyond typical categories
+  - Feeling embarrassed about lack of basic syntax knowledge despite years of experience
+
+Group 27:
+  - Challenging job transition without degree or certification recognition
+  - Low entry barrier to IT positions with or without certifications or degrees
+  - Consideration of career change or shifting to more secure job opportunities.
+  - Need to showcase leadership experience on the resume not just certifications
+  - Concerns about making more lateral career moves than necessary with certifications
+
+Group 28:
+  - Concerns about the impact of offshoring IT roles
+  - Concerns about the applicability of certifications like Security+ in advancing IT careers in the cybersecurity field.
+  - Concern about the compatibility of freelance IT experience with larger companies where tasks might be handled by helpdesk or third-party companies.
+
+Group 29:
+  - Difficulty navigating career decisions between degrees and certifications
+
+Group 30:
+  - Foundational skills are crucial for IT careers including troubleshooting effective information searching and communication.
+  - Search for opportunities that allow focus on coding and complex projects.
+  - Importance of having a broad skill set across multiple cloud platforms.
+  - Challenge of gaining new knowledge and skills particularly in programming and automation.
+  - Inadequate communication and assistance from the outsourcing company.
+  - Frustration with corporate structure and desire for more focus on software development.
+  - Lack of formal education in Computer Science hindering job prospects
+  - Resume structure: Importance of shorter concise bullet points with quantifiable achievements and impact.
+  - Skill update: Emphasized continuous learning and skill acquisition to stay competitive in the tech field.
+  - Doubts about skill level for principal role
+  - Skills and mindset evaluation required for transitioning to a managerial role as it involves less coding and more people management.
+  - The need for ongoing skill investments and mentorship when transitioning to a managerial role.
+  - Transitioning from IC to EM may require significant skill adjustments and may not align with existing technical expertise.
+  - Working for an MSP or VAR may lead to eventual dissatisfaction due to management practices and lack of downtime for learning new technologies.
+  - Utilizing LinkedIn for networking and connecting with tech groups customers and recruiters is recommended for job opportunities.
+  - Importance of having reliable backup assistant or apprentice to handle workload and improve efficiency.
+  - Concerns about lack of technical skills and experience in transitioning to IT management
+  - Job fit assessment: Evaluating if the current role aligns with skills and career goals
+  - Feeling incompetent due to lack of familiarity with technical aspects.
+  - Importance of understanding IT services and management procedures
+  - Lack of clarity on how database administration experience aligns with networking career path
+
+Group 31:
+  - Cybersecurity is not an entry-level field and breaking into security often requires in-depth knowledge and expertise.
+  - Networking and soft skills are more critical than technical knowledge as being personable is vital in the field.
+  - Some IT systems are sub-optimal and maintaining a balance between the two extremes is crucial.
+  - Continuous learning is integral in IT to stay relevant but it can become draining as professionals age.
+  - Competing against cloud engineers who lack in-depth knowledge of IT systems.
+  - Pressure of handling end users and on-call responsibilities as a SysAdmin
+  - Trusting more and doing less focusing on setting things in motion and keeping the runway clear.
+  - Inadequate work-life balance and the need to prioritize mental well-being
+  - The high value placed on problem-solving skills and adaptability over specialized knowledge.
+  - Management being a different job with more responsibility and less control over building things.
+  - Challenges in being a non-technical EM and identifying technology expertise
+
+Group 32:
+  - Burnout is common in IT due to understaffing and exhausting workloads.
+  - Difficulty obtaining positive references due to past issues with health and burnout.
+  - Burnout and stress causing a decline in work ethic and attendance.
+  - Potential burnout due to overwhelming responsibilities.
+  - Risk of being scapegoated for failures during the transition period.
+  - Burnout and need for a break
+
+Group 33:
+  - The perception of IT being a glamorous career is subjective varying by individual and background.
+  - Soft skills are often more valuable than technical expertise and being likable can lead to career advancement and success.
+  - Suggestions to be cautious about relying on references in the current job market.
+  - Feeling like a prisoner of a desk and the slow soulless nature of the job.
+  - Feeling stuck in a customer service career with fear of being pigeonholed.
+  - Unrealistic expectations of immediate success in a new career path without sufficient experience or networking.
+  - Feeling overwhelmed by the timeframe required for a successful career change.
+  - Perception of HTML not being considered as coding experience
+  - Advisability of pursuing further education such as a Master's in CS as a route to enhance job prospects.
+  - Finding a job that combines IT and programming
+  - Variability of job preferences between big and small companies regarding specialization.
+  - Crafting a professional reason for leaving that doesn't involve personal beliefs or values.
+  - Autonomy may not be as high as perceived especially when faced with limitations from management.
+  - Unrealistic expectations regarding game development as a career choice.
+  - Acknowledgment of challenges faced by IT professionals in terms of workload and subcontracting tasks.
+  - Fear of job becoming more difficult
+  - Fear of being viewed as an imposter or not being ready for a management role
+  - Perception that starting in helpdesk is a common path in IT careers
+  - Perceived advantages and disadvantages of different entry points into an IT career.
+
+Group 34:
+  - Lack of work-life balance
+
+Group 35:
+  - Feeling overwhelmed due to extensive responsibilities
+
+Group 36:
+  - Shift from coding to management and support roles
+  - Importance of staying connected to the industry when transitioning to management
+
+Group 37:
+  - Concerns about routine and non-challenging coding jobs
+
+Group 38:
+  - Preference for smaller companies and chaotic environments
+
+Group 39:
+  - Consideration of self-employment and potential challenges like handling support and devops independently
+  - Feeling of anger and distrust towards companies and employers.
+
+Group 40:
+  - Desire to pursue AI despite limited experience
+
+Group 41:
+  - Contemplation of a PhD but concerns about potential monotony
+  - Concerns about legal implications of negative references and potential solutions.
+
+Group 42:
+  - Lack of interview opportunities
+  - Limited job applications and interview opportunities
+
+Group 43:
+  - Resume critique
+
+Group 44:
+  - Certification deficiency
+
+Group 45:
+  - Competition in job market
+
+Group 46:
+  - Support for family
+
+Group 47:
+  - Transition challenges
+
+Group 48:
+  - Positive feedback skepticism
+
+Group 49:
+  - Need for feedback
+
+Group 50:
+  - Financial pressure
+
+Group 51:
+  - Skills translation difficulty
+
+Group 52:
+  - Specialisation is crucial to avoid being blamed for various IT issues.
+  - Insufficient time to manage all tasks effectively.
+  - Feeling unsure about transitioning to a new field within IT
+  - Guarding your time and setting a good example to maintain productivity.
+  - Revealing too much about internal company operations can be seen as unprofessional.
+  - Providing a generic reason for leaving without delving into specifics.
+  - Potential for failure due to lack of technical expertise in a management role.
+  - Concerns about IT being placed under HR potentially hindering efficiency
+  - Concerns about salary and benefits as an IT manager
+  - Strive to be a leader not just a manager
+  - Importance of being approachable and foreseeing potential challenges as a leader
+  - Not being a passionate tech enthusiast but seeking scalability and financial benefits
+
+Group 53:
+  - Lack of understanding in cloud engineers regarding traditional IT infrastructure.
+  - The importance of understanding networks for a back-end dev role
+
+Group 54:
+  - Need to master various tools in addition to cloud technologies for long-term success.
+  - Decline in classical sysadmin positions as companies move to public cloud providers
+  - Expectations for IT professionals to adapt to coding practices and automation for infrastructure management
+  - Need for EM to understand technical aspects for effective management
+  - Appreciation for the ability to set pricing as a freelance consultant based on client relationships and proposals.
+  - Limited Demand for Apple IT Professionals in Enterprise Environment
+  - Struggling to handle technical aspects in new role.
+  - Unable to complete technical tasks successfully.
+  - Potential opportunity to work as a Cisco Networking Academy instructor
+  - Lack of confidence in transitioning to networking without traditional IT support experience
+
+Group 55:
+  - Concerns about job role transformation into a glorified helpdesk position.
+  - Long development timelines in game projects.
+
+Group 56:
+  - Transition to cloud engineering involves complexities and potential stress.
+  - Concerns about cloud providers' costs and potential lack of infrastructure knowledge leading to self-sufficiency challenges
+  - Hesitation to tackle unfamiliar concepts and technologies in software development
+
+Group 57:
+  - Trust issues with current supervisors and HR for providing references.
+  - Lack of interviews: Not receiving interviews indicates potential issues with resume and job search approach.
+  - Lack of accountability with shared admin account
+
+Group 58:
+  - Suggestions to volunteer at non-profit organizations to build credible references.
+
+Group 59:
+  - Recommendations to seek legal advice regarding employment and reference issues.
+
+Group 60:
+  - Recommendations to prioritize health and personal well-being before continuing with career decisions.
+  - Being proactive and responsible for future planning.
+  - Explore your interests and experiences with current and potential roles
+  - Difficulty in being hired externally as a manager without prior managerial experience.
+  - Convincing business managers to make the right decisions and allocate resources
+  - Identify and mentor a capable worker for succession planning in current role
+  - Seeking guidance on career progression and the ideal path to follow.
+  - Need to inquire about the technology stack offered by potential employers during interviews to align with career goals.
+
+Group 61:
+  - Pay cut when transitioning from SysAdmin to developer roles
+
+Group 62:
+  - Difficulty in showcasing coding skills and portfolio during job interviews
+
+Group 63:
+  - Uncertainty in perceived value of scripting skills compared to programming
+
+Group 64:
+  - Perception of SysAdmin being an easier job than developer roles
+
+Group 65:
+  - Lack of opportunities for career advancement without extensive commercial experience
+  - Concerns about taking a salary reduction for transitioning roles
+  - Financial considerations when transitioning to a new role
+  - Unions affecting salary structures and lack of recognition for skills
+  - Lack of success in securing job interviews
+  - Lack of entrepreneurial drive for starting a business
+  - Desire for a chill IT job similar to manual and automation testing
+  - Desire for a salary increase to match current military pay level
+  - Burnout and stress leading to the desire for a career change.
+  - Seeking recommendations for a career change
+  - Perceptions of limited job options outside of software development sector.
+  - Limited opportunities for transitioning within current role or company
+  - Limited resources for exploring job openings and industry trends.
+  - Lack of career growth opportunities
+  - Limited options due to COVID-19 impacting job market and choices
+  - Lack of deliberate career investment and motivation for tech stack changes
+  - Potential lack of promotion opportunities for new managers within companies.
+  - Desire to explore other career paths outside of software development
+  - Exploration of alternative retirement dreams and job opportunities
+  - Limited job opportunities for newcomers due to the complexity and nature of the industry.
+  - Recommendation to take the safer option of the customer service job
+  - Disdain towards the idea of double relocating and paying back for training on the sales job
+  - Need for clear authority and budget allocation for running the IT department
+  - Consider pursuing an MSIS degree for career advancement
+  - Concerns about relevance of current database administrator role for transitioning to networking
+  - Lack of advancement opportunities within current company many roles outsourced abroad
+
+Group 66:
+  - Balancing system administration and development duties in a job
+  - Struggles with stagnant salary growth and lack of negotiation power
+  - Seeking freedom and autonomy in job tasks
+  - Suggestion to network within the second job for possible internal transfers
+  - Balancing experience and certifications in job applications
+
+Group 67:
+  - Challenges in finding companies looking for a SysAdmin/DevOps hybrid role
+
+Group 68:
+  - The learning curve required for transitioning to DevOps roles.
+
+Group 69:
+  - Handling the workload of a 5-person team alone.
+
+Group 70:
+  - Lack of organization and documentation in the initial setup.
+  - Interest in transitioning to the guard or reserves for insurance and benefits
+  - Disheartenment with the competitive job market and lack of employment opportunities.
+  - Lack of focus on building a strong portfolio and networking in the desired field.
+  - Importance of building an emergency fund and living below means.
+  - Importance of understanding the company's upper management culture towards IT
+  - Potential risk of not passing probation period in current role.
+  - Limited understanding of the specific skills and knowledge required in the Networking field
+
+Group 71:
+  - Feeling pressured to perform at the level of experienced team members who were let go.
+
+Group 72:
+  - Feeling undervalued and exploited by being asked to do multiple specialist roles.
+
+Group 73:
+  - % merit increase - not seen as a significant raise
+  - Struggle to make a significant career shift without appropriate background
+  - Concern about stress being more about the company than the profession
+
+Group 74:
+  - The possibility of being walked out after giving notice
+  - The struggle to break into the IT industry even after obtaining certifications.
+
+Group 75:
+  - Uncertainty surrounding the legitimacy of "unlimited PTO" benefits
+
+Group 76:
+  - Concerns about the true nature of "unlimited" PTO policies
+  - **Asking Questions**: Emphasize the importance of asking questions even if they may seem basic to accelerate learning and integration into the new environment.
+  - **Understanding Organizational Culture**: Learn and adapt to the organizational culture including how things are done unwritten rules and the general tone of interactions within the company.
+
+Group 77:
+  - The strategic use of LinkedIn for job opportunities
+  - Limited company investment in employee growth or incentives
+
+Group 78:
+  - Strategies for handling resignations and transitioning to new opportunities
+  - Need for continuous learning and adaptation to industry trends
+
+Group 79:
+  - uncertain trend
+
+Group 80:
+  - Job postings requiring Kubernetes knowledge for Linux System Engineer/Admin roles
+
+Group 81:
+  - Diverse definitions of DevOps engineer roles among companies
+
+Group 82:
+  - varying from programming tasks to system administration
+
+Group 83:
+  - Increasing demand for IT professionals with automation experience OS knowledge and hands-on experience in AWS or Azure
+
+Group 84:
+  - Job market seeking candidates with full stack development skills for most development roles
+
+Group 85:
+  - Challenges in transitioning from user endpoints and SaaS admin roles to infrastructure (DevOps) positions
+
+Group 86:
+  - Evolving roles in IT industry blurring traditional boundaries between sysadmins developers and infrastructure specialists
+
+Group 87:
+  - Preference for hybrid roles combining infrastructure and development skills causing some friction within IT teams and job roles
+
+Group 88:
+  - PowerShell for Azure and on-prem activities
+
+Group 89:
+  - Caution in replying to emails and navigating ADUC
+
+Group 90:
+  - Expertise in ProcMon for troubleshooting
+
+Group 91:
+  - Emphasize learning Azure over AWS
+
+Group 92:
+  - Importance of meticulous note-taking and password management
+
+Group 93:
+  - Focus on DNS, BGP, OSI Model, system backups, and automation
+
+Group 94:
+  - Certification recommendations for Azure and AWS
+
+Group 95:
+  - Cybersecurity mindset and readiness to learn
+
+Group 96:
+  - Brick-level AD backups for data protection
+
+Group 97:
+  - Trouble-shooting skills and building relationships with other IT professionals
+
+Group 98:
+  - Seeking guidance on transitioning from non-IT backgrounds to IT roles.
+  - Skills developed in game dev may not stand out on paper
+
+Group 99:
+  - Challenges in deciding between pursuing cybersecurity certifications or building a programming portfolio.
+
+Group 100:
+  - Difficulty in staying persistent and positive while facing job market challenges.
+  - Struggles with defining personal identity and priorities while facing job dissatisfaction.
+  - Difficulty in transitioning to game development without prior experience.
+
+Group 101:
+  - Rushing through the learning process
+
+Group 102:
+  - Need for hands-on experience
+  - Lack of hands-on experience for officers
+  - Need for hands-on technical experience or qualifications
+
+Group 103:
+  - Realistic expectations about landing a job
+
+Group 104:
+  - Importance of knowledge during interviews
+
+Group 105:
+  - Doubts about transitioning into cybersecurity due to background or certifications
+
+Group 106:
+  - Language barriers hindering certification progress
+
+Group 107:
+  - Feeling inadequately taught in university
+
+Group 108:
+  - Career change uncertainty due to criminal record
+
+Group 109:
+  - Lack of guidance on transitioning into cybersecurity
+
+Group 110:
+  - Finding entry-level job in GRC domain is challenging
+
+Group 111:
+  - Confusion over which certifications to pursue beyond Security+
+
+Group 112:
+  - Need for both GRC and technical certifications for upskilling
+
+Group 113:
+  - Extensive variety of career paths within cybersecurity to choose from
+
+Group 114:
+  - Emphasis on hands-on technical skills for cybersecurity roles
+
+Group 115:
+  - Limited entry-level opportunities in GRC field
+
+Group 116:
+  - Potential pathway from IT risk assessments or IT auditing to GRC roles
+
+Group 117:
+  - Skepticism about transitioning to cybersecurity solely with certifications without prior real-world experience
+
+Group 118:
+  - Interest in consulting positions at top firms for initial experience.
+
+Group 119:
+  - Feeling like you're failing but passing the Security+ exam.
+  - Feeling unsure if IT is the right field
+  - Lean times favor specialists while boom times prefer generalists.
+
+Group 120:
+  - Difficulty in making sense of poorly written English in the exam questions.
+  - Challenges with the ambiguity in the questions and scenarios presented during the exam.
+  - Discrepancies between exam questions and real-world experience in the IT field.
+  - Frustration with the disconnect between the theory covered in the exam and practical experience.
+  - Start by asking questions about the new role
+
+Group 121:
+  - CompTIA's emphasis on "critical thinking" leading to confusing questions for seasoned professionals.
+
+Group 122:
+  - Complaints about typos and errors in CompTIA study materials and practice tests.
+  - Inconsistencies and issues with various training resources for CompTIA exams.
+
+Group 123:
+  - The need to study comprehensively and use CompTIA's methodology to answer questions correctly.
+
+Group 124:
+  - Quality of life concerns in different branches
+
+Group 125:
+  - Uncertainty about cyber contract duration
+  - Uncertainty about career prospects in cybersecurity.
+
+Group 126:
+  - Difficulty in score requirement for cyber positions
+
+Group 127:
+  - Challenges in transitioning to civilian life
+
+Group 128:
+  - Age-related considerations in branch selection
+
+Group 129:
+  - Intensive and fast-paced learning in training programs
+
+Group 130:
+  - Competitive nature of cyber positions in certain branches
+
+Group 131:
+  - Long background check processing times
+
+Group 132:
+  - Mixed experiences with cyber training programs.
+
+Group 133:
+  - Finding a good program in cybersec
+
+Group 134:
+  - Passing relevant certifications
+
+Group 135:
+  - Concerns about saturation in the cybersecurity field
+
+Group 136:
+  - Self-identification as introverted and potentially autistic
+
+Group 137:
+  - Uncertainty about which specific area within infosec to focus on.
+
+Group 138:
+  - Uncertainty about marketability and salary in the civilian world
+  - Reduced compensation and lower job security in the market
+
+Group 139:
+  - Considerations about insurance and benefits in civilian roles
+
+Group 140:
+  - Need for further education and pursuing a Master's in Information Technology
+  - Difficulty in finding a good fit for addressing climate change with tech skills
+  - Struggle to see a direct impact of software engineering on climate change
+  - Need for additional education or advanced degree
+
+Group 141:
+  - Questions about relevance and benefits of additional certifications such as CISSP CISA Security+
+
+Group 142:
+  - Consideration of TIG/TIS/TSP (time in grade time in service Thrift Savings Plan)
+
+Group 143:
+  - Potential interest in federal civilian job opportunities
+  - Limited job opportunities due to market conditions
+
+Group 144:
+  - Doubt regarding qualifications for Cyber Security analyst roles with current skill set and degree
+
+Group 145:
+  - Uncertainty about pursuing Cyber Security analyst positions versus Information Security analyst positions.
+
+Group 146:
+  - Uncertainty about skills being incorrectly valued and transferability of skills.
+  - Uncertainty about the transferability of skills from database administration to networking
+
+Group 147:
+  - Transitioning from technical roles to roles like product management or sales.
+
+Group 148:
+  - Mental health struggles impacting motivation and career progression.
+
+Group 149:
+  - Lack of clear career progression opportunities
+  - Disadvantages of limited skill set for career progression
+  - Importance of clear KPIs and career progression path
+  - Comparing salary potential and career progression between different IT roles
+
+Group 150:
+  - Low salary and uncertainty about adequate compensation
+  - Uncertainty about career direction and options
+  - Uncertainty about career as contractor vs. direct employee
+
+Group 151:
+  - Need to self-fund and manage training outside of work hours
+
+Group 152:
+  - Unclear guidance on the best educational path or certifications to pursue
+  - Choosing between certifications and formal education
+
+Group 153:
+  - Feeling undervalued and potentially exploited at current company
+
+Group 154:
+  - Favoring traditional degrees over relevant skills and certifications
+
+Group 155:
+  - Considering relocating internationally for better opportunities
+
+Group 156:
+  - Uncertainty about current career path
+  - Questioning future career path
+  - Uncertainty about future career growth opportunities within current company
+
+Group 157:
+  - Desire for change from service desk roles
+
+Group 158:
+  - Lack of clarity on alternative career options
+
+Group 159:
+  - Exploration of transitioning into sales
+
+Group 160:
+  - Feeling of being at a career crossroads
+
+Group 161:
+  - Seeking fulfillment in a different industry
+
+Group 162:
+  - Considering other fields like manufacturing engineering
+
+Group 163:
+  - Desire to find a fulfilling career path.
+
+Group 164:
+  - Skill misalignment
+
+Group 165:
+  - Uncertainty in career specialization
+
+Group 166:
+  - Transition challenge
+
+Group 167:
+  - Certification requirements
+
+Group 168:
+  - Lack of relevant experience
+  - Importance of practical experience and relevant skill set
+  - Lack of technical IT experience
+
+Group 169:
+  - Pigeonholing fear
+
+Group 170:
+  - Overcoming career inertia
+
+Group 171:
+  - Path to cloud roles
+
+Group 172:
+  - Navigational uncertainty
+
+Group 173:
+  - Skill transfer concerns
+
+Group 174:
+  - Transitioning from a traditional CS role to non-traditional IT roles
+
+Group 175:
+  - Varied experiences and progression opportunities in different fields within IT
+  - Need for patience and perseverance to progress in the IT field
+
+Group 176:
+  - Challenges of dealing with high-pressure environments such as call centers
+  - Java is more widely spread in enterprise jobs with C# as an alternative
+  - Potential challenges in dealing with a chaotic company environment
+
+Group 177:
+  - Communication and customer service skills essential in IT roles
+  - Pressure in managerial roles to manage relationships with direct reports and senior management effectively.
+
+Group 178:
+  - Differences in mental demands between CS and IT careers
+
+Group 179:
+  - Available non-math-intensive IT job options
+
+Group 180:
+  - Options for low-stress well-paid IT roles.
+
+Group 181:
+  - Perception of tech industry culture shift due to layoffs.
+
+Group 182:
+  - Adversarial perspective towards employers.
+
+Group 183:
+  - Anxiety and paranoia about job security.
+
+Group 184:
+  - Realization of the transactional nature of the employer-employee relationship.
+
+Group 185:
+  - Impact on career ambitions and wanderlust.
+
+Group 186:
+  - Survivor's guilt and potential impact on personal hobbies and life balance.
+  - Overwhelming focus on meetings and lack of real work
+
+Group 187:
+  - Mercenary attitude toward the job market.
+
+Group 188:
+  - Oversaturation of new entrants in the software engineering market
+
+Group 189:
+  - Difficulty transitioning from non-technical roles to software development
+
+Group 190:
+  - High competition for entry-level software engineering positions
+
+Group 191:
+  - Tight job market with low new job postings
+
+Group 192:
+  - High competition with thousands of applicants for one job
+  - Lack of traditionally attractive resume qualities for certain climate-focused roles
+
+Group 193:
+  - Long and arduous interview processes with multiple rounds
+
+Group 194:
+  - Uncertain job security and potential for layoffs
+
+Group 195:
+  - Difficulty in job hopping due to on-site work requirements
+
+Group 196:
+  - Pressure to pivot career paths and adapt skills to different sectors
+
+Group 197:
+  - Feeling trapped in the QA role despite coding experience
+
+Group 198:
+  - Need for creativity in exploring alternative career paths
+  - Advice to leverage call center metrics experience for job applications
+  - Need for proactive job application
+
+Group 199:
+  - Uncertainty about transitioning to other jobs
+
+Group 200:
+  - Lack of success in trying out QA/automation roles
+
+Group 201:
+  - Feeling undervalued with potential work options
+
+Group 202:
+  - Unsure about exploring new tech roles like SRE or cybersecurity
+
+Group 203:
+  - Lack of clarity on years of experience tech stack and qualifications
+
+Group 204:
+  - Geographic restrictions in job search
+
+Group 205:
+  - Visa sponsorship requirements
+
+Group 206:
+  - Need to improve resume and expertise
+  - Uncertainty on how to tailor resume to highlight new career focus
+
+Group 207:
+  - Deciding on roles like Workday developer SAP/ERP developer or ServiceNow/SalesForce developer
+
+Group 208:
+  - Considering ServiceNow for IT experience with some programming involved
+
+Group 209:
+  - Concern about primarily using outdated JavaScript in the role
+  - Difficulty in understanding concepts like render cycle promises and testing in JavaScript
+
+Group 210:
+  - Advising on how to present self-taught programming skills during interviews
+
+Group 211:
+  - Suggesting roles like SysAdmin and Site Reliability Engineer (SRE)
+
+Group 212:
+  - Emphasizing the need for scripting and familiarity with tools like Docker Chef and AWS CloudFormation for SysAdmin roles
+
+Group 213:
+  - Options to apply for lower-end dev roles or pivot towards Ops or DevOps roles to utilize existing skills
+
+Group 214:
+  - DevOps roles being a hybrid between IT and development potentially leading to a transition into cloud-focused developer roles.
+
+Group 215:
+  - Resume length: Consensus on resume length being too long should be condensed to one page.
+
+Group 216:
+  - Resume content: Filler material present on resume urge to cut fluff and focus on essential information.
+
+Group 217:
+  - Web development skills: Suggested transitioning into web development specifically learning ASP.NET and relevant technologies.
+
+Group 218:
+  - Learning resources: Recommendations for online tutorials platforms and communities for skill enhancement.
+
+Group 219:
+  - Job market challenges: Variability in job market across Canadian regions affecting job prospects for developers.
+  - Impact of job market and industry differences on career trajectory
+
+Group 220:
+  - Resume format: Suggestions to improve resume appearance use of templates for a modern look and avoiding lengthy text.
+
+Group 221:
+  - Lack of real-world application of LeetCode skills in software engineering roles
+
+Group 222:
+  - Struggle with syntax and errors in React component writing
+
+Group 223:
+  - Reluctance to delve deep into understanding code to fix issues
+
+Group 224:
+  - Ego affecting self-perception of coding abilities
+
+Group 225:
+  - Emphasis on the distinction between LeetCode problem-solving and software engineering
+
+Group 226:
+  - Challenges transitioning from algorithm-focused skills to software engineering skills
+
+Group 227:
+  - Imposter syndrome and comparing oneself to others in the field
+
+Group 228:
+  - Slow career growth due to specialization changes
+
+Group 229:
+  - Effect of years of experience (YOE) on career transitions
+
+Group 230:
+  - Challenges in transitioning between diverse specializations
+
+Group 231:
+  - Uncertainty in maintaining senior roles across different fields
+
+Group 232:
+  - Difficulty in meeting specific tech stack requirements for job roles
+
+Group 233:
+  - Perception of lower career ceiling in certain specializations.
+
+Group 234:
+  - Non-profits can be politically challenging with money being siphoned off and substandard developers causing frustration
+  - Managing people can be challenging and draining especially for introverts
+
+Group 235:
+  - Limited number of job boards focused on climate change job opportunities
+  - Limited job listings on specific job boards for climate change-related positions
+  - Varied Complexity of Job Depending on Company Needs
+  - Lack of hands-on experience due to limited job opportunities
+
+Group 236:
+  - Challenges in finding tech roles directly focused on fighting climate change
+
+Group 237:
+  - Companies may prioritize profit over addressing climate change
+
+Group 238:
+  - Insufficient consideration of political will as a crucial factor in addressing climate change
+  - Fear of becoming obsolete due to rapidly changing technology trends
+  - Considering a change in profession or industry
+  - The need for a strong reason to transition to a managerial role
+
+Group 239:
+  - Need to overcome system-wide economic incentives to address global heating.
+  - Questioning whether to stick with software or transition to networking and related fields
+
+Group 240:
+  - Decisions made by non-technical people causing problems lack of recognition for achievements
+
+Group 241:
+  - Presence of corporate politics and layoffs targeting wrong individuals
+
+Group 242:
+  - Expectation to burn out from overwork while juggling multiple roles
+
+Group 243:
+  - Pressures of sticking to job roles and difficulties of dealing with offshore teams
+
+Group 244:
+  - Industrialization of IT with rushed projects and tight deadlines
+
+Group 245:
+  - Inefficiencies due to corporate-style AGILE methodologies
+
+Group 246:
+  - Frustration with lack of consideration for quality and rushed work
+
+Group 247:
+  - Burnout influenced by corporate greed layoffs and profit-centric culture
+
+Group 248:
+  - Overwhelmed with increased workload and unrealistic timeframes
+
+Group 249:
+  - Feeling of little challenge and repetition leading to potential career changes
+  - Pressure to leave a current stressful job
+  - Feeling of failure and giving up hope on landing a data-related job
+  - Potential decrease in salary when moving into management roles
+
+Group 250:
+  - Being the PR person for the team broadcasting their successes.
+
+Group 251:
+  - Emphasizing Quality of Life (QOL) and Work-Life Balance (WLB) for the team.
+
+Group 252:
+  - Communicating effectively with both the team and the company.
+  - Embracing differences in work styles and encouraging transparency within the team.
+  - Show knowledge about the new role in discussions with management
+  - Struggling with lack of human interaction in engineering
+  - Need for strong mentorship and coaching in a management position
+
+Group 253:
+  - Shielding the team from external pressures and delegating responsibilities.
+
+Group 254:
+  - Delegating tasks to team members to encourage self-management and self-organization.
+
+Group 255:
+  - Starting with trust and assuming team members are competent.
+
+Group 256:
+  - Have a conversation with your manager about transitioning
+
+Group 257:
+  - Research the job and potential future team
+
+Group 258:
+  - Get information from someone on the team you want to switch to
+
+Group 259:
+  - Befriend team members for potential recommendations
+
+Group 260:
+  - Consider starting with lower-level tasks to gain experience
+
+Group 261:
+  - Lack of relevant work experience in the intended fields
+  - Challenge in defining success and finding fulfillment in work
+  - Difficulty in getting responses or job offers despite years of experience
+
+Group 262:
+  - Intense competition in the AI/ML job market
+
+Group 263:
+  - Difficulty in finding suitable positions requiring unfamiliar skills
+
+Group 264:
+  - Feeling overlooked for systems-level roles despite previous experience
+
+Group 265:
+  - Lack of clarity on the best path to transition into new fields
+  - Keeping track of and demonstrating the value generated by IT projects
+
+Group 266:
+  - including not being able to use creative skills effectively
+
+Group 267:
+  - Poor team dynamics and lack of collaboration among team members
+
+Group 268:
+  - Feeling disconnected from coding and being burdened with manual tasks
+
+Group 269:
+  - Unsupportive or absent management leading to lack of guidance and communication
+  - Adjusting priorities and goals when transitioning to a managerial role
+
+Group 270:
+  - Uncertainty and instability caused by reorganizations in the company
+
+Group 271:
+  - Feeling unfulfilled in roles that do not align with personal interests or skills
+
+Group 272:
+  - Psychological impact of job dissatisfaction on mental health
+
+Group 273:
+  - Difficulty in finding a job that combines intellectual stimulation and impactful work
+
+Group 274:
+  - Lack of growth opportunities
+  - Limited opportunities for technical growth in a management role
+
+Group 275:
+  - Stagnation in skill development
+
+Group 276:
+  - Difficulty in demonstrating increased influence
+
+Group 277:
+  - Limited experience in more advanced tasks
+
+Group 278:
+  - Negative impact of non-traditional career path
+
+Group 279:
+  - Importance of working with experienced developers
+
+Group 280:
+  - Limited strategic career moves
+
+Group 281:
+  - Challenges in job transitions
+
+Group 282:
+  - Feeling stuck in repetitive tasks
+
+Group 283:
+  - Non-linear career growth.
+
+Group 284:
+  - Prevailing market conditions and interest rates impact all backgrounds adversely.
+
+Group 285:
+  - FAANG companies tend to prefer specialists over generalists as evident with Google's team matching process.
+
+Group 286:
+  - Tech roles at larger companies cater to specialists while smaller companies seek full-stack developers or generalists.
+
+Group 287:
+  - Challenges in technical interviews for generalists compared to specialists.
+  - Challenges in earning respect and trust from more experienced technical staff
+
+Group 288:
+  - The need for a balance between specialization and a wide range of skills in the "T-shaped developer" model.
+  - Professional development: Need for training and upskilling in certain areas
+  - Difficulty in letting go of being the primary "doer" as a tech person
+  - Concerns about the practical application of theoretical knowledge in a job
+
+Group 289:
+  - Career progression stagnation at senior level
+
+Group 290:
+  - Lack of motivation and burnout
+
+Group 291:
+  - Negative corporate environment impact
+
+Group 292:
+  - Difficulty in gaining deep domain knowledge due to frequent job changes
+
+Group 293:
+  - Struggle with focus shift and resistance in role allocation
+
+Group 294:
+  - Gender bias and lack of effective mentoring opportunities
+  - Lack of creative control and influence over game quality.
+
+Group 295:
+  - Feeling angry and defeated losing joy & passion
+
+Group 296:
+  - Being vague in explanations to avoid potential conflict or accusations.
+
+Group 297:
+  - Using standard non-answers to avoid providing specific details.
+
+Group 298:
+  - Playing it safe in interviews by being concise and positive.
+  - Being cautious not to come across as someone who sparks conflict.
+
+Group 299:
+  - Avoiding negative comments about previous employers to prevent red flags.
+
+Group 300:
+  - Tailoring responses based on how deeply interviewers probe.
+
+Group 301:
+  - Highlighting the need for aligning with company values without badmouthing past employers.
+
+Group 302:
+  - Constant pressure to upskill to remain competitive in the market
+
+Group 303:
+  - Difficulty in balancing constant study with other life demands
+
+Group 304:
+  - Feeling unskilled compared to competition
+
+Group 305:
+  - Exhaustion from continuous job hunting and skill development
+
+Group 306:
+  - Frustration with the expectation of 3-5 years experience in new technologies
+
+Group 307:
+  - Risk of burnout from recurring career challenges
+
+Group 308:
+  - Struggle to differentiate between media hype and essential skills
+
+Group 309:
+  - Overwhelming amount of technological options to learn and understand
+
+Group 310:
+  - Challenges in balancing autonomy technical skills and managerial responsibilities.
+  - Balancing managing people and technical responsibilities
+  - Role confusion: Juggling between managerial and technical responsibilities
+
+Group 311:
+  - Struggles with time management and balancing technical work with team management as an engineering lead.
+
+Group 312:
+  - Finding a less stressful job within the software industry
+
+Group 313:
+  - Uncertainty and mid-life crisis triggered by team dynamics and company culture
+
+Group 314:
+  - Seeking advice on transitioning to lower-stress roles like project manager product analyst etc.
+
+Group 315:
+  - Exploring non-traditional tech-related roles such as DevOps sales engineering or teaching
+
+Group 316:
+  - Imposter syndrome
+
+Group 317:
+  - Transitioning mindset from junior/medior to senior/solutions architect
+
+Group 318:
+  - Handling high expectations in a new senior role
+  - Difficulty in finding other job opportunities as a tech manager
+  - Considering lower salary in new Project Manager role.
+
+Group 319:
+  - Establishing goals and expectations with new employer
+
+Group 320:
+  - Transitioning smoothly and ramping up quickly
+
+Group 321:
+  - Avoiding the urge to immediately implement changes based on previous experiences
+  - Need to take on significant challenges to solve underlying issues
+
+Group 322:
+  - Being methodical and systematic in the transition process
+
+Group 323:
+  - Balancing humility with the expectation of knowing your field well
+
+Group 324:
+  - Listening and observing before suggesting changes or new ideas
+
+Group 325:
+  - Managing the adjustment to new design paradigms and technologies
+
+Group 326:
+  - Industry shift towards technical roles
+
+Group 327:
+  - Imposter syndrome regarding technical expertise
+
+Group 328:
+  - Need for deeper technical knowledge for career prospects
+
+Group 329:
+  - Preference for technical EMs from experienced devs
+
+Group 330:
+  - Struggle of non-technical EMs to contribute to IC work
+
+Group 331:
+  - Requirement for technical proficiency in leadership roles
+  - gap in relevant experience for networking roles
+
+Group 332:
+  - Concern about difficulty in landing another EM role without technical expertise
+  - Doubt about opportunities for networking newbies.
+
+Group 333:
+  - Risk of ineffective management without technical experience
+
+Group 334:
+  - **Navigating Team Dynamics**: Understand the existing team dynamics leads and relationships to integrate smoothly without disrupting the workflow.
+  - **Communicating Effectively**: Master the art of effective communication with different stakeholders understanding their preferences and adapting to various communication styles within the organization.
+  - **Avoiding Negative Impact**: Be cautious about asserting too much influence or criticizing existing processes too soon as it may undermine relationships and hinder your integration process.
+
+Group 335:
+  - **Establishing Relationships**: Focus on building relationships with colleagues by asking simple questions showing genuine interest and engaging in non-work-related conversations.
+
+Group 336:
+  - **Delivering Value**: Demonstrate your value by delivering results efficiently and professionally keeping a balance between proving your capabilities and avoiding burnout.
+
+Group 337:
+  - Not keeping up with the transition in software development and managing legacy JS code
+
+Group 338:
+  - Lack of experience with modern ECMA and essential tools like Git
+
+Group 339:
+  - Need to learn newer frameworks like React or Vue
+
+Group 340:
+  - Importance of soft skills in a professional setting
+
+Group 341:
+  - Difficulty in finding job opportunities with outdated tech stack
+
+Group 342:
+  - Overcomplicating the learning process and underestimating own abilities
+
+Group 343:
+  - Reluctance to learn new technologies and frameworks
+
+Group 344:
+  - Not defining oneself as a software developer with a broad skill set beyond a specific framework
+  - Gamedev is highly technical and requires knowledge of niche topics.
+  - Feeling lonely as a manager due to maintaining a professional distance
+
+Group 345:
+  - Potential challenges transitioning to project management or other non-technical roles due to technical background
+  - Transition challenges: Adapting from a project management background to a technical management role
+
+Group 346:
+  - Tough job market lower expectations to get back in
+
+Group 347:
+  - Concerns about being "best pick" on paper
+
+Group 348:
+  - Transitioning back to tech from game development
+
+Group 349:
+  - Leveraging transferable skills from game dev to tech
+  - Skill set transition from big tech to startup environment
+
+Group 350:
+  - Taking an intermediate job to kickstart career
+
+Group 351:
+  - Adding experience as a business owner as a bonus to profile
+  - Lack of management experience for such a challenging role
+
+Group 352:
+  - Feeling discouraged by rejections affecting self-esteem
+
+Group 353:
+  - Reentering the workforce after a career break
+
+Group 354:
+  - Uncertainty about startup idea and direction
+
+Group 355:
+  - Legal constraints with current employer
+
+Group 356:
+  - Need for a like-minded co-founder with complementary skills
+
+Group 357:
+  - Balancing full-time job with startup work
+
+Group 358:
+  - Outsourcing accounting and legal services
+
+Group 359:
+  - Importance of marketing and outsourcing
+
+Group 360:
+  - Building relationships and networking
+
+Group 361:
+  - Start with contracting or consulting
+
+Group 362:
+  - Consider joining an early-stage high-growth company
+
+Group 363:
+  - Socially isolating nature of coding
+
+Group 364:
+  - Difficulty finding fulfillment from quietly coding all day
+
+Group 365:
+  - Challenges of transitioning to a people-focused role
+
+Group 366:
+  - Feeling disconnected from colleagues and the team
+
+Group 367:
+  - Need for more human-centric day-to-day tasks
+
+Group 368:
+  - Lack of satisfaction from technical development roles
+
+Group 369:
+  - Desire to work in roles involving more collaboration
+
+Group 370:
+  - Stiff competition for entry-level positions.
+
+Group 371:
+  - High market competition crowded market and low wages in the gamedev industry.
+
+Group 372:
+  - QA job transition into full-time coding
+
+Group 373:
+  - Lack of catching bugs compared to previous QA team
+
+Group 374:
+  - Devs not owning quality
+
+Group 375:
+  - Difficulty in finding good automation engineers
+
+Group 376:
+  - Perception that automated testing is not important
+
+Group 377:
+  - Hiring individuals with background mismatch
+
+Group 378:
+  - Insufficient domain knowledge among QA
+
+Group 379:
+  - Disconnect between manual and automated testing roles
+
+Group 380:
+  - Perception of QA as lower-status roles
+
+Group 381:
+  - Java has more job opportunities
+
+Group 382:
+  - Java has a mature platform and a well-supported ecosystem
+
+Group 383:
+  - Java has a lot of boilerplate code and forced OOP
+
+Group 384:
+  - Java is associated with working on legacy code
+
+Group 385:
+  - Golang is easier to pick up and has less boilerplate
+
+Group 386:
+  - Golang has a poorly designed language with weak type system
+
+Group 387:
+  - Golang has issues with error handling and nil pointers
+
+Group 388:
+  - Golang is popular in the infrastructure space
+
+Group 389:
+  - Golang is considered easy to learn with core packages managed by Google
+
+Group 390:
+  - Customer service job with back-to-back calls
+
+Group 391:
+  - Uncertain career transition with no interviews for data-related roles
+
+Group 392:
+  - Concern over potential scammy and possibly illegal aspects of the sales job offer
+
+Group 393:
+  - Encouragement to keep applying to data science/IT jobs
+
+Group 394:
+  - Finding relevant job titles in the IT support field
+
+Group 395:
+  - Ensuring potential job opportunities are not missed
+
+Group 396:
+  - Dealing with job listings that include engineer and analyst roles alongside desktop support descriptions
+
+Group 397:
+  - Navigating job search websites and resources for IT roles
+
+Group 398:
+  - Building qualifications and skills to match different IT support job titles
+
+Group 399:
+  - Considering managed services companies for diverse support experiences
+
+Group 400:
+  - Adapting to the fast-paced and unpredictable nature of daily support tasks
+
+Group 401:
+  - Seeking guidance on job search strategies specific to IT support roles
+  - Utilizing job search tools and bots to enhance the job search process.
+  - Seeking guidance on career advancement strategies.
+
+Group 402:
+  - Challenges with balancing billable hours with non-billable work such as marketing and administrative tasks.
+
+Group 403:
+  - Pivoting to DevOps instead of data management
+
+Group 404:
+  - Desire to develop in DevOps
+
+Group 405:
+  - Seeking FTE position
+
+Group 406:
+  - Considering roles in DevOps vertical
+
+Group 407:
+  - Concern about stability in advertising industry
+
+Group 408:
+  - Uncertainty about transition to new role
+
+Group 409:
+  - Balancing salary increase with job stability
+
+Group 410:
+  - Feeling uncertain about career path and future
+
+Group 411:
+  - Additional password to remember
+
+Group 412:
+  - Concerns about virus spreading via compromised admin account
+
+Group 413:
+  - Initial resistance to change but eventual acceptance after adjustment period
+
+Group 414:
+  - Hassle of closing programs to switch between regular and admin accounts
+  - Need for budget approval and support from upper management
+
+Group 415:
+  - Potential security risks with shared admin account
+
+Group 416:
+  - Challenge of relogging for admin privileges
+
+Group 417:
+  - Cultural adjustment from local admin access to restricted access
+
+Group 418:
+  - Frustration at having to seek permission for basic tasks on user machines.
+
+Group 419:
+  - Transferability of Knowledge to Another Job
+
+Group 420:
+  - Difficulty Finding Technical Support for Apple Systems
+
+Group 421:
+  - Importance of Doing Research and Homework
+
+Group 422:
+  - Learning Mac OS quickly out of Necessity
+
+Group 423:
+  - Importance of Having Proper Management Tools
+
+Group 424:
+  - Budget Considerations for Management Tools
+
+Group 425:
+  - Supporting Mixed Platform Environments
+
+Group 426:
+  - Importance of Brushing Up Skills on Mac OS.
+
+Group 427:
+  - Personality fit rewards responsibility job satisfaction networking opportunities
+
+Group 428:
+  - Choosing based on enjoyment not arbitrary opinions
+
+Group 429:
+  - Development experience benefits product managers
+
+Group 430:
+  - Perceived step backward in career.path
+
+Group 431:
+  - First-time IT management role difficult to navigate
+
+Group 432:
+  - Unclear if MSP is subpar or stuck in a bad partnership
+
+Group 433:
+  - Managing an MSP can be time-consuming
+
+Group 434:
+  - Building relationships and trust with existing MSP
+
+Group 435:
+  - Balancing priorities between technical and process-oriented tasks
+  - Balancing technical and process-oriented improvements within the department
+
+Group 436:
+  - Challenges associated with wearing multiple hats in IT management
+
+Group 437:
+  - Potential difficulty with IT under HR instead of CIO/CTO
+
+Group 438:
+  - Need professional experience before moving into management
+
+Group 439:
+  - Obtaining relevant certifications such as Scrum Master and PMP
+
+Group 440:
+  - Difficulty in transitioning from developer to manager
+
+Group 441:
+  - Ageism impacting career progression
+
+Group 442:
+  - Focusing on project management skills
+
+Group 443:
+  - Uncertainty about personal interests in managing projects or people
+
+Group 444:
+  - Balancing technical expertise with management skills
+  - Balancing technical expertise with management responsibilities
+
+Group 445:
+  - Considering the necessity of an MBA for higher leadership roles
+
+Group 446:
+  - Feeling pressured and unsure about career prospects
+
+Group 447:
+  - Potential social challenges and sexist biases faced as a female in IT leadership
+
+Group 448:
+  - Imposter syndrome and self-doubt regarding leadership abilities
+
+Group 449:
+  - Difficulty in building an entire IT department from scratch
+
+Group 450:
+  - Uncertainty around the performance of the current MSP
+
+Group 451:
+  - Managing expectations and KPIs to reach the envisioned CIO/CTO position
+
+Group 452:
+  - Difficulty transitioning out of IT management role
+
+Group 453:
+  - Prioritizing personal and family needs in career decisions
+
+Group 454:
+  - Experience with layoffs impacting career progression
+
+Group 455:
+  - Imposter syndrome: Feeling inadequate and out of depth in meetings and tasks
+
+Group 456:
+  - Lack of technical expertise: Struggling with tasks like code reviews and infrastructure diagrams
+
+Group 457:
+  - Team management challenges: Ensuring team engagement and skill development
+
+Group 458:
+  - Inadequate documentation: Facing difficulties due to lack of clear documentation
+
+Group 459:
+  - Support from superiors: Feeling distant and unsupported by boss
+
+Group 460:
+  - Mental health impact: Stress and anxiety affecting overall well-being
+
+Group 461:
+  - Feeling drained from being more people-focused than task-focused
+
+Group 462:
+  - Managing employee and personality issues
+
+Group 463:
+  - Not assuming employees will complete tasks as expected
+
+Group 464:
+  - Importance of mentorship from a previous impactful manager
+
+Group 465:
+  - Recommended reading of Dale Carnegie's works specifically "How to Win Friends and Influence People"
+
+Group 466:
+  - Focus on networking especially at training classes and conferences
+
+Group 467:
+  - Importance of nurturing relationships with colleagues at all levels
+
+Group 468:
+  - Inability to support developers effectively.
+
+Group 469:
+  - Feeling useless in meetings.
+
+Group 470:
+  - Sleep and weight being affected by job challenges.
+
+Group 471:
+  - Facing demoralizing treatment from other managers.
+
+Group 472:
+  - Perception of people mocking abilities behind back.
+
+Group 473:
+  - Concerns about transitioning directly into IT management
+
+Group 474:
+  - Need for empathy and flexibility in management style
+
+Group 475:
+  - Avoiding a dictatorial leadership approach
+
+Group 476:
+  - Challenge in proving technical knowledge and skills during interviews
+
+Group 477:
+  - Competition with candidates having more IT experience
+  - Competition from younger candidates with more experience.
+
+Group 478:
+  - Potential preference for military veterans in certain organizations
+
+Group 479:
+  - Emphasis on people management and soft skills for IT management success
+
+Group 480:
+  - Limited experience with recruiters
+
+Group 481:
+  - Negative perception of recruiters due to bad experiences
+
+Group 482:
+  - Need to set LinkedIn to indicate open to job opportunities
+
+Group 483:
+  - Importance of networking with industry contacts
+
+Group 484:
+  - Uncertainty in finding a reputable recruiter
+
+Group 485:
+  - Lack of knowledge on how to identify good recruiters
+
+Group 486:
+  - Challenges in finding a recruiter who is genuinely helpful
+
+Group 487:
+  - Concerns about new job environment and adapting to it
+
+Group 488:
+  - Pressure to demonstrate value in management roles
+
+Group 489:
+  - Salary increase expectations
+
+Group 490:
+  - Learning resources overwhelm
+
+Group 491:
+  - Seeking respect and recognition in the workplace
+
+Group 492:
+  - Transitioning roles within the company
+
+Group 493:
+  - Challenges in career progression with certifications
+
+Group 494:
+  - Employer reimbursement disparities
+
+Group 495:
+  - Relevance of certifications in job roles
+
+Group 496:
+  - Leveraging connections for career opportunities
+
+Group 497:
+  - Skill relevance in practical job settings
+
+Group 498:
+  - Transitioning from helpdesk to specialized roles.
+
+Group 499:
+  - Downtrend in traditional network engineer roles leading to drop in IT inhouse staff
+
+Group 500:
+  - Increasing demand for coding-related roles and network automation engineers
+
+Group 501:
+  - Need for automation experience or coding skills in network roles
+
+Group 502:
+  - Uncertainty about the lucrativeness of RF engineering
+
+Group 503:
+  - Recommendation to focus on Wi-Fi after obtaining CCNA certification
+
+Group 504:
+  - Variety of resources available for CCNA preparation and training
+  - Desire to obtain CCNA certification for transitioning into networking
+
+Group 505:
+  - Testimonials on the positive impact of CCNA certification
+
+Group 506:
+  - Ageism concerns
+
+Group 507:
+  - Perceived difficulty of pursuing the CCNA exam at an older age
+
+Group 508:
+  - Time pressure to start and complete the CCNA certification
+
+Group 509:
+  - Overcoming self-doubt regarding career change
+
+Group 510:
+  - Experienced professionals sharing successful certification journeys
+
+Group 511:
+  - Importance of continuous learning and certifications
+
+Group 512:
+  - Job market challenges and industry demands for certifications
+
+Group 513:
+  - Age as a factor in hiring decisions
+
+Group 514:
+  - Transitioning from a non-IT role directly into networking without helpdesk experience
+
+Group 515:
+  - Comparison of salary prospects between different IT roles
+
+Group 516:
+  - Contrasting views on the necessity of beginning in helpdesk role for networking career
+
+Group 517:
+  - Need to highlight experience in CV
+
+Group 518:
+  - Difficulties transitioning from telecom to network engineering
+  - Challenges in transitioning from NOC to network engineering
+
+Group 519:
+  - Struggles getting noticed by companies
+
+Group 520:
+  - Consider applying for general IT roles first
+
+Group 521:
+  - Lack of hands-on experience with routers and switches
+  - necessity of hands-on experience for network tech position.
+
+Group 522:
+  - Limited opportunities for telcom engineers in networking
+
+Group 523:
+  - Over-reliance on influencers and misinformation about certifications
+
+Group 524:
+  - Seeking advice on progressing within current company or seeking roles elsewhere
+
+Group 525:
+  - Challenges in balancing exam preparation with hands-on experience
+
+Group 526:
+  - Uncertainty about job prospects after passing CCNA
+
+Group 527:
+  - Lack of rapport with new manager post-reorganization
+
+Group 528:
+  - Difficulty in finding a fitting role post-CCNA certification
+
+Group 529:
+  - Variability in pay expectations for network engineer positions
+
+Group 530:
+  - Balancing field experience with theoretical certifications
+
+Group 531:
+  - Need for practical experience beyond CCNA for employment
+
+Group 532:
+  - Importance of broad IT skill set beyond vendor certifications
+  - Focus on professionalism and people skills in addition to technical qualifications
+
+Group 533:
+  - Necessity to acquire diverse skills beyond network basics.
+
+Group 534:
+  - Deciding on switching programs or pursuing a degree route
+
+Group 535:
+  - Balancing work experience and certifications
+  - Balancing work and studying for certifications
+
+Group 536:
+  - Balancing academic workload with certification preparation
+
+Group 537:
+  - Determining the impact of certifications on job prospects in Canada
+
+Group 538:
+  - NOC to network engineer transition is unlikely
+
+Group 539:
+  - may require help desk experience first
+
+Group 540:
+  - uphill battle for transition
+
+Group 541:
+  - need to start by getting Network+ and/or CCNA
+
+Group 542:
+  - uncertain feasibility of transition
+
+Group 543:
+  - potential need for additional certifications
+
+Group 544:
+  - challenge of transitioning without recent IT experience
+
+Group 545:
+  - unsure about compatibility of data skills with networking roles
+
+Group 546:
+  - Professional work experience advantage
+
+Group 547:
+  - Limited job market optimism
+
+Group 548:
+  - Urgency in upskilling and certification
+
+Group 549:
+  - Concerns regarding job outlook
+
+Group 550:
+  - Encouragement for pursuing CCNA
+
+Group 551:
+  - Mixed perceptions on market recovery
+
+Group 552:
+  - Importance of completing education
+
+Group 553:
+  - Uncertainty about transitioning from entry-level to higher positions even with CCNA certification
+
+Group 554:
+  - Desire to escape financial purgatory and achieve financial freedom
+
+Group 555:
+  - Seeking advice from experienced professionals or those who have faced similar situations
+
+Group 556:
+  - Importance of hands-on real-world experience alongside theoretical knowledge
+
+Group 557:
+  - Opportunity to explore different roles within a small Managed Service Provider (MSP) to gain diverse experience
+
+Group 558:
+  - Incomplete degree
+
+Group 559:
+  - Age discrimination
+
+Group 560:
+  - Transitioning from sales/technical support to cybersecurity
+
+Group 561:
+  - Concerns about starting as a junior or intern at older age
+
+Group 562:
+  - Competitive job market
+
+Group 563:
+  - Perceived youth preference in the industry
+
+Group 564:
+  - Lack of confidence due to age
+
+Group 565:
+  - Limited time availability for completing certifications
+
+Group 566:
+  - Limited experience for a network engineer role
+
+Group 567:
+  - Certifications do not replace experience
+
+Group 568:
+  - Need to consider more junior roles like network help desk or network administrator
+
+Group 569:
+  - Expectations for experience and knowledge in engineering roles
+
+Group 570:
+  - Companies prefer experienced candidates to minimize onboarding time
+
+Group 571:
+  - Need for patience in career progression
+
+Group 572:
+  - Balancing gaining experience with enjoying youth
+

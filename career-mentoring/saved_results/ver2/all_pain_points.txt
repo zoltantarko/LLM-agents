@@ -1,0 +1,865 @@
+1. Laying off experienced tech professionals struggle to find new jobs
+2. Concern about making the wrong career choice
+3. Anxiety over investing time and money in cybersecurity career due to layoffs
+4. Desire for stability over passion
+5. Skepticism towards following passion in cybersecurity
+6. Need for continuous learning and specialized skills in cybersecurity
+7. Doubt regarding the demand and stability of cybersecurity career after 2023
+8. Reluctance toward the "passion" aspect of pursuing a career
+9. Challenge of balancing personal interests with career prospects in IT
+10. Transitioning from non-tech backgrounds to cybersecurity roles
+1. Transitioning from education to IT field
+2. Rapid job changes within IT
+3. Salary progression concerns
+4. Certification value and impact on salary
+5. Uncertainty about pay levels in different regions
+6. Pressure to continuously study and obtain certifications
+7. Comparing salaries to cost of living
+8. Handling rapid promotion and skill level expectations
+9. Seeking advice on certifications for career progression
+10. Difficulty in securing entry-level IT job opportunities
+1. Oversaturation in the IT market
+2. Unrealistic expectations for entry-level roles
+3. Importance of gaining experience over degrees or certifications
+4. Difficulty transitioning to Cybersecurity without relevant experience
+5. Need for consistent learning in the IT industry
+6. Importance of broad knowledge before specializing
+7. Lack of understanding about different IT roles beyond typical categories
+8. Challenging job transition without degree or certification recognition
+9. Concerns about the impact of offshoring IT roles
+10. Difficulty navigating career decisions between degrees and certifications
+1. Foundational skills are crucial for IT careers including troubleshooting effective information searching and communication.
+2. Not all IT professionals make a substantial income; many are in entry-level roles with low wages.
+3. Job hopping for more skills and experience is essential especially if your current company isn't up to date with technology trends.
+4. Cybersecurity is not an entry-level field and breaking into security often requires in-depth knowledge and expertise.
+5. Networking and soft skills are more critical than technical knowledge as being personable is vital in the field.
+6. Some IT systems are sub-optimal and maintaining a balance between the two extremes is crucial.
+7. Burnout is common in IT due to understaffing and exhausting workloads.
+8. The perception of IT being a glamorous career is subjective varying by individual and background.
+9. Continuous learning is integral in IT to stay relevant but it can become draining as professionals age.
+10. Soft skills are often more valuable than technical expertise and being likable can lead to career advancement and success.
+1. Lack of work-life balance
+2. Feeling overwhelmed due to extensive responsibilities
+3. Shift from coding to management and support roles
+4. Concerns about routine and non-challenging coding jobs
+5. Preference for smaller companies and chaotic environments
+6. Consideration of self-employment and potential challenges like handling support and devops independently
+7. Uncertainty about returning to previous employer without significant changes in responsibilities
+8. Desire to pursue AI despite limited experience
+9. Contemplation of a PhD but concerns about potential monotony
+10. Search for opportunities that allow focus on coding and complex projects.
+Lack of interview opportunities
+Resume critique
+Certification deficiency
+Competition in job market
+Support for family
+Transition challenges
+Positive feedback skepticism
+Need for feedback
+Financial pressure
+Skills translation difficulty
+1. Specialisation is crucial to avoid being blamed for various IT issues.
+2. Lack of understanding in cloud engineers regarding traditional IT infrastructure.
+3. Competing against cloud engineers who lack in-depth knowledge of IT systems.
+4. Need to master various tools in addition to cloud technologies for long-term success.
+5. Concerns about job role transformation into a glorified helpdesk position.
+6. Transition to cloud engineering involves complexities and potential stress.
+7. Importance of having a broad skill set across multiple cloud platforms.
+8. Challenge of gaining new knowledge and skills particularly in programming and automation.
+9. Pressure to learn new skills and expand knowledge to stay relevant in the industry.
+10. Uncertainty about the true nature of the cloud engineering position being offered.
+1. Difficulty obtaining positive references due to past issues with health and burnout.
+2. Trust issues with current supervisors and HR for providing references.
+3. Lack of discretion in job search leading to potential negative impact on current job.
+4. Burnout and stress causing a decline in work ethic and attendance.
+5. Challenges in finding quality employers that do not require references.
+6. Suggestions to volunteer at non-profit organizations to build credible references.
+7. Concerns about legal implications of negative references and potential solutions.
+8. Recommendations to seek legal advice regarding employment and reference issues.
+9. Suggestions to be cautious about relying on references in the current job market.
+10. Recommendations to prioritize health and personal well-being before continuing with career decisions.
+1. Pay cut when transitioning from SysAdmin to developer roles
+2. Difficulty in showcasing coding skills and portfolio during job interviews
+3. Uncertainty in perceived value of scripting skills compared to programming
+4. Perception of SysAdmin being an easier job than developer roles
+5. Lack of opportunities for career advancement without extensive commercial experience
+6. Balancing system administration and development duties in a job
+7. Challenges in finding companies looking for a SysAdmin/DevOps hybrid role
+8. Concerns about taking a salary reduction for transitioning roles
+9. Pressure of handling end users and on-call responsibilities as a SysAdmin
+10. The learning curve required for transitioning to DevOps roles.
+1. Handling the workload of a 5-person team alone.
+2. Insufficient time to manage all tasks effectively.
+3. Lack of organization and documentation in the initial setup.
+4. Inadequate communication and assistance from the outsourcing company.
+5. Feeling pressured to perform at the level of experienced team members who were let go.
+6. Concerns about job security despite promises of a promotion and raise.
+7. Potential burnout due to overwhelming responsibilities.
+8. Risk of being scapegoated for failures during the transition period.
+9. Feeling undervalued and exploited by being asked to do multiple specialist roles.
+10. Uncertainty about the future and the possibility of being replaced once the transition is complete.
+1. 3% merit increase - not seen as a significant raise
+2. The possibility of being walked out after giving notice
+3. Uncertainty surrounding the legitimacy of "unlimited PTO" benefits
+4. Challenges associated with companies not valuing employees beyond the initial hiring stage
+5. Financial considerations when transitioning to a new role
+6. Concerns about the true nature of "unlimited" PTO policies
+7. The strategic use of LinkedIn for job opportunities
+8. Struggles with stagnant salary growth and lack of negotiation power
+9. Unions affecting salary structures and lack of recognition for skills
+10. Strategies for handling resignations and transitioning to new opportunities
+1. Decline in classical sysadmin positions as companies move to public cloud providers
+uncertain trend
+2. Job postings requiring Kubernetes knowledge for Linux System Engineer/Admin roles
+3. Diverse definitions of DevOps engineer roles among companies
+varying from programming tasks to system administration
+4. Increasing demand for IT professionals with automation experience OS knowledge and hands-on experience in AWS or Azure
+5. Job market seeking candidates with full stack development skills for most development roles
+6. Concerns about cloud providers' costs and potential lack of infrastructure knowledge leading to self-sufficiency challenges
+7. Challenges in transitioning from user endpoints and SaaS admin roles to infrastructure (DevOps) positions
+8. Evolving roles in IT industry blurring traditional boundaries between sysadmins developers and infrastructure specialists
+9. Expectations for IT professionals to adapt to coding practices and automation for infrastructure management
+10. Preference for hybrid roles combining infrastructure and development skills causing some friction within IT teams and job roles
+1. PowerShell for Azure and on-prem activities
+2. Caution in replying to emails and navigating ADUC 
+3. Expertise in ProcMon for troubleshooting
+4. Emphasize learning Azure over AWS
+5. Importance of meticulous note-taking and password management
+6. Focus on DNS, BGP, OSI Model, system backups, and automation
+7. Certification recommendations for Azure and AWS 
+8. Cybersecurity mindset and readiness to learn
+9. Brick-level AD backups for data protection
+10. Trouble-shooting skills and building relationships with other IT professionals
+- The struggle to break into the IT industry even after obtaining certifications.
+- Feeling overwhelmed by the process of laying down basic foundations for certifications.
+- Dealing with negativity and age-related concerns in pursuing a career change.
+- Uncertainty about the effectiveness and value of certifications in the job market.
+- Seeking guidance on transitioning from non-IT backgrounds to IT roles.
+- Challenges in deciding between pursuing cybersecurity certifications or building a programming portfolio.
+- Lack of confidence and motivation during the transition to a new career.
+- Difficulty in staying persistent and positive while facing job market challenges.
+- Uncertainty about the relevance of specific certifications and the necessity of multiple certifications.
+- Feeling trapped in current career paths and seeking inspiration to make a change.
+- Rushing through the learning process
+- Need for hands-on experience
+- Realistic expectations about landing a job
+- Importance of knowledge during interviews
+- Doubts about transitioning into cybersecurity due to background or certifications
+- Language barriers hindering certification progress
+- Feeling inadequately taught in university
+- Career change uncertainty due to criminal record
+- Lack of guidance on transitioning into cybersecurity
+- Uncertainty about starting salary in cybersecurity.
+- Finding entry-level job in GRC domain is challenging
+- Confusion over which certifications to pursue beyond Security+
+- Need for both GRC and technical certifications for upskilling
+- Extensive variety of career paths within cybersecurity to choose from
+- Difficulty in accessing entry-level roles without significant prior experience
+- Emphasis on hands-on technical skills for cybersecurity roles
+- Limited entry-level opportunities in GRC field
+- Potential pathway from IT risk assessments or IT auditing to GRC roles
+- Skepticism about transitioning to cybersecurity solely with certifications without prior real-world experience
+- Interest in consulting positions at top firms for initial experience.
+1. Feeling like you're failing but passing the Security+ exam.
+2. Difficulty in making sense of poorly written English in the exam questions.
+3. CompTIA's emphasis on "critical thinking" leading to confusing questions for seasoned professionals.
+4. Challenges with the ambiguity in the questions and scenarios presented during the exam.
+5. Discrepancies between exam questions and real-world experience in the IT field.
+6. Complaints about typos and errors in CompTIA study materials and practice tests.
+7. Inconsistencies and issues with various training resources for CompTIA exams.
+8. Frustration with the disconnect between the theory covered in the exam and practical experience.
+9. The need to study comprehensively and use CompTIA's methodology to answer questions correctly.
+10. Concerns about the applicability of certifications like Security+ in advancing IT careers in the cybersecurity field.
+1. Quality of life concerns in different branches
+2. Uncertainty about cyber contract duration
+3. Difficulty in score requirement for cyber positions
+4. Challenges in transitioning to civilian life
+5. Age-related considerations in branch selection
+6. Lack of hands-on experience for officers
+7. Intensive and fast-paced learning in training programs
+8. Competitive nature of cyber positions in certain branches
+9. Long background check processing times
+10. Mixed experiences with cyber training programs.
+- Finding a good program in cybersec
+- Passing relevant certifications
+- Concerns about saturation in the cybersecurity field
+- Lack of success in securing job interviews
+- Feeling unsure about transitioning to a new field within IT
+- Self-identification as introverted and potentially autistic
+- Lack of entrepreneurial drive for starting a business
+- Desire for a chill IT job similar to manual and automation testing
+- Seeking freedom and autonomy in job tasks
+- Uncertainty about which specific area within infosec to focus on.
+- Uncertainty about marketability and salary in the civilian world
+- Desire for a salary increase to match current military pay level
+- Considerations about insurance and benefits in civilian roles
+- Need for further education and pursuing a Master's in Information Technology
+- Questions about relevance and benefits of additional certifications such as CISSP CISA Security+
+- Interest in transitioning to the guard or reserves for insurance and benefits
+- Consideration of TIG/TIS/TSP (time in grade time in service Thrift Savings Plan)
+- Potential interest in federal civilian job opportunities
+- Doubt regarding qualifications for Cyber Security analyst roles with current skill set and degree
+- Uncertainty about pursuing Cyber Security analyst positions versus Information Security analyst positions.
+1. Feeling like a prisoner of a desk and the slow soulless nature of the job.
+2. Midlife crisis and the pressure to have career paths figured out by 30.
+3. Burnout and stress leading to the desire for a career change.
+4. Lack of purpose and joy in current job despite high salary.
+5. Uncertainty about skills being incorrectly valued and transferability of skills.
+6. Desire for business ownership but uncertain about what type of business to start.
+7. Feeling unfulfilled and unable to imagine staying in current career for many more years.
+8. Transitioning from technical roles to roles like product management or sales.
+9. Frustration with corporate structure and desire for more focus on software development.
+10. Feeling bored with current job and seeking meaningful changes and opportunities for growth.
+1. Feeling stuck in a customer service career with fear of being pigeonholed.
+2. Struggling with the societal pressure to find a meaningful job that pays well.
+3. Challenges in accepting the reality of having to return to a previous career that caused immense discomfort.
+4. Disheartenment with the competitive job market and lack of employment opportunities.
+5. Unrealistic expectations of immediate success in a new career path without sufficient experience or networking.
+6. Mental health struggles impacting motivation and career progression.
+7. Lack of focus on building a strong portfolio and networking in the desired field.
+8. Feeling overwhelmed by the timeframe required for a successful career change.
+9. Concerns about the long-term viability and competitiveness of the chosen career path.
+10. Struggles with defining personal identity and priorities while facing job dissatisfaction.
+1. Lack of clear career progression opportunities
+2. Limited support for further education and skills development
+3. Low salary and uncertainty about adequate compensation
+4. Need to self-fund and manage training outside of work hours
+5. Unclear guidance on the best educational path or certifications to pursue
+6. Feeling undervalued and potentially exploited at current company
+7. Limited company investment in employee growth or incentives
+8. Favoring traditional degrees over relevant skills and certifications
+9. Considering relocating internationally for better opportunities
+10. Feeling stuck in a job that may lead to burnout without advancement prospects.
+1. Uncertainty about current career path
+2. Feeling unsure if IT is the right field
+3. Seeking recommendations for a career change
+4. Desire for change from service desk roles
+5. Lack of clarity on alternative career options
+6. Exploration of transitioning into sales
+7. Feeling of being at a career crossroads
+8. Seeking fulfillment in a different industry
+9. Considering other fields like manufacturing engineering
+10. Desire to find a fulfilling career path.
+Skill misalignment
+Uncertainty in career specialization
+Transition challenge
+Certification requirements
+Lack of relevant experience
+Pigeonholing fear
+Overcoming career inertia
+Path to cloud roles
+Navigational uncertainty
+Skill transfer concerns
+1. Transitioning from a traditional CS role to non-traditional IT roles
+2. Low entry barrier to IT positions with or without certifications or degrees
+3. Potential for starting at entry-level call center job with paid training
+4. Varied experiences and progression opportunities in different fields within IT
+5. Challenges of dealing with high-pressure environments such as call centers
+6. Need for patience and perseverance to progress in the IT field
+7. Communication and customer service skills essential in IT roles
+8. Differences in mental demands between CS and IT careers
+9. Available non-math-intensive IT job options
+10. Options for low-stress well-paid IT roles.
+1. Feeling of anger and distrust towards companies and employers.
+2. Perception of tech industry culture shift due to layoffs.
+3. Adversarial perspective towards employers.
+4. Anxiety and paranoia about job security.
+5. Realization of the transactional nature of the employer-employee relationship.
+6. Impact on career ambitions and wanderlust.
+7. Survivor's guilt and potential impact on personal hobbies and life balance.
+8. Mercenary attitude toward the job market.
+9. Importance of building an emergency fund and living below means.
+10. Consideration of career change or shifting to more secure job opportunities.
+1. Lack of formal education in Computer Science hindering job prospects
+2. Oversaturation of new entrants in the software engineering market
+3. Difficulty transitioning from non-technical roles to software development
+4. Limited job opportunities due to market conditions
+5. High competition for entry-level software engineering positions
+6. Uncertainty about the effectiveness of bootcamps in securing jobs
+7. Need for continuous learning and adaptation to industry trends
+8. Importance of practical experience and relevant skill set
+9. Perception of HTML not being considered as coding experience
+10. Advisability of pursuing further education such as a Master's in CS as a route to enhance job prospects.
+1. Tight job market with low new job postings
+2. High competition with thousands of applicants for one job
+3. Long and arduous interview processes with multiple rounds
+4. Uncertain job security and potential for layoffs
+5. Difficulty in job hopping due to on-site work requirements
+6. Reduced compensation and lower job security in the market
+7. Lack of empathy from some experienced professionals in the industry
+8. Pressure to pivot career paths and adapt skills to different sectors
+9. Feeling trapped in the QA role despite coding experience
+10. Need for creativity in exploring alternative career paths
+1. Uncertainty about transitioning to other jobs
+2. Lack of success in trying out QA/automation roles
+3. Feeling undervalued with potential work options
+4. Unsure about exploring new tech roles like SRE or cybersecurity
+5. Lack of clarity on years of experience tech stack and qualifications
+6. Limited job applications and interview opportunities
+7. Geographic restrictions in job search
+8. Visa sponsorship requirements
+9. Need to improve resume and expertise
+10. Perceptions of limited job options outside of software development sector.
+- Finding a job that combines IT and programming
+- Deciding on roles like Workday developer SAP/ERP developer or ServiceNow/SalesForce developer
+- Considering ServiceNow for IT experience with some programming involved
+- Concern about primarily using outdated JavaScript in the role
+- The importance of understanding networks for a back-end dev role
+- Advising on how to present self-taught programming skills during interviews
+- Suggesting roles like SysAdmin and Site Reliability Engineer (SRE)
+- Emphasizing the need for scripting and familiarity with tools like Docker Chef and AWS CloudFormation for SysAdmin roles
+- Options to apply for lower-end dev roles or pivot towards Ops or DevOps roles to utilize existing skills
+- DevOps roles being a hybrid between IT and development potentially leading to a transition into cloud-focused developer roles.
+1. Resume length: Consensus on resume length being too long should be condensed to one page.
+2. Resume content: Filler material present on resume urge to cut fluff and focus on essential information.
+3. Lack of interviews: Not receiving interviews indicates potential issues with resume and job search approach.
+4. Web development skills: Suggested transitioning into web development specifically learning ASP.NET and relevant technologies.
+5. Learning resources: Recommendations for online tutorials platforms and communities for skill enhancement.
+6. Resume structure: Importance of shorter concise bullet points with quantifiable achievements and impact.
+7. Skill update: Emphasized continuous learning and skill acquisition to stay competitive in the tech field.
+8. Job market challenges: Variability in job market across Canadian regions affecting job prospects for developers.
+9. Resume format: Suggestions to improve resume appearance use of templates for a modern look and avoiding lengthy text.
+10. Skill relevance: Highlighting the importance of aligning skills with industry demand and showcasing experience effectively.
+1. Lack of real-world application of LeetCode skills in software engineering roles
+2. Struggle with syntax and errors in React component writing
+3. Difficulty in understanding concepts like render cycle promises and testing in JavaScript
+4. Feeling embarrassed about lack of basic syntax knowledge despite years of experience
+5. Reluctance to delve deep into understanding code to fix issues
+6. Ego affecting self-perception of coding abilities
+7. Emphasis on the distinction between LeetCode problem-solving and software engineering 
+8. Challenges transitioning from algorithm-focused skills to software engineering skills
+9. Imposter syndrome and comparing oneself to others in the field
+10. Hesitation to tackle unfamiliar concepts and technologies in software development
+1. Slow career growth due to specialization changes
+2. Impact of job market and industry differences on career trajectory
+3. Effect of years of experience (YOE) on career transitions
+4. Challenges in transitioning between diverse specializations
+5. Uncertainty in maintaining senior roles across different fields
+6. Concerns about salary level and downleveling with specialization changes
+7. Pressure to specialize for higher salary positions
+8. Disadvantages of limited skill set for career progression
+9. Difficulty in meeting specific tech stack requirements for job roles
+10. Perception of lower career ceiling in certain specializations.
+1. Non-profits can be politically challenging with money being siphoned off and substandard developers causing frustration
+2. Limited number of job boards focused on climate change job opportunities
+3. Difficulty in finding a good fit for addressing climate change with tech skills
+4. Lack of traditionally attractive resume qualities for certain climate-focused roles
+5. Limited job listings on specific job boards for climate change-related positions
+6. Challenges in finding tech roles directly focused on fighting climate change
+7. Companies may prioritize profit over addressing climate change
+8. Struggle to see a direct impact of software engineering on climate change
+9. Insufficient consideration of political will as a crucial factor in addressing climate change
+10. Need to overcome system-wide economic incentives to address global heating.
+1. Decisions made by non-technical people causing problems lack of recognition for achievements
+2. Presence of corporate politics and layoffs targeting wrong individuals
+3. Expectation to burn out from overwork while juggling multiple roles
+4. Pressures of sticking to job roles and difficulties of dealing with offshore teams
+5. Industrialization of IT with rushed projects and tight deadlines
+6. Inefficiencies due to corporate-style AGILE methodologies
+7. Frustration with lack of consideration for quality and rushed work
+8. Burnout influenced by corporate greed layoffs and profit-centric culture
+9. Overwhelmed with increased workload and unrealistic timeframes
+10. Feeling of little challenge and repetition leading to potential career changes
+1. Trusting more and doing less focusing on setting things in motion and keeping the runway clear.
+2. Being the PR person for the team broadcasting their successes.
+3. Being proactive and responsible for future planning.
+4. Emphasizing Quality of Life (QOL) and Work-Life Balance (WLB) for the team.
+5. Guarding your time and setting a good example to maintain productivity.
+6. Communicating effectively with both the team and the company.
+7. Shielding the team from external pressures and delegating responsibilities.
+8. Delegating tasks to team members to encourage self-management and self-organization.
+9. Starting with trust and assuming team members are competent.
+10. Embracing differences in work styles and encouraging transparency within the team.
+1. Just ask and express interest in the new role
+2. Start by asking questions about the new role
+3. Have a conversation with your manager about transitioning
+4. Research the job and potential future team
+5. Get information from someone on the team you want to switch to
+6. Befriend team members for potential recommendations
+7. Show knowledge about the new role in discussions with management
+8. Highlight being the best option for the company to switch roles
+9. Consider starting with lower-level tasks to gain experience
+10. Explore your interests and experiences with current and potential roles
+1. Lack of relevant work experience in the intended fields
+2. Uncertainty on how to tailor resume to highlight new career focus
+3. Need for additional education or advanced degree
+4. Intense competition in the AI/ML job market
+5. Limited opportunities for transitioning within current role or company
+6. Difficulty in finding suitable positions requiring unfamiliar skills
+7. Struggle to make a significant career shift without appropriate background
+8. Feeling overlooked for systems-level roles despite previous experience
+9. Lack of clarity on the best path to transition into new fields
+10. Limited resources for exploring job openings and industry trends.
+1. Lack of career growth opportunities
+including not being able to use creative skills effectively
+2. Poor team dynamics and lack of collaboration among team members
+3. Feeling disconnected from coding and being burdened with manual tasks
+4. Unsupportive or absent management leading to lack of guidance and communication
+5. Uncertainty and instability caused by reorganizations in the company
+6. Feeling unfulfilled in roles that do not align with personal interests or skills
+7. Psychological impact of job dissatisfaction on mental health
+8. Difficulty in finding a job that combines intellectual stimulation and impactful work
+9. Limited options due to COVID-19 impacting job market and choices 
+10. Inadequate work-life balance and the need to prioritize mental well-being
+- Lack of growth opportunities
+- Stagnation in skill development
+- Difficulty in demonstrating increased influence
+- Limited experience in more advanced tasks
+- Negative impact of non-traditional career path
+- Importance of working with experienced developers
+- Limited strategic career moves
+- Challenges in job transitions
+- Feeling stuck in repetitive tasks
+- Non-linear career growth.
+1. Lean times favor specialists while boom times prefer generalists.
+2. Prevailing market conditions and interest rates impact all backgrounds adversely.
+3. FAANG companies tend to prefer specialists over generalists as evident with Google's team matching process.
+4. Discrepancies between the job market trends in the tech sector compared to other industries.
+5. Tech roles at larger companies cater to specialists while smaller companies seek full-stack developers or generalists.
+6. The high value placed on problem-solving skills and adaptability over specialized knowledge.
+7. Challenges in technical interviews for generalists compared to specialists.
+8. Variability of job preferences between big and small companies regarding specialization.
+9. The need for a balance between specialization and a wide range of skills in the "T-shaped developer" model.
+10. The preference for smart engineers over generalists in the industry.
+1. Career progression stagnation at senior level
+2. Lack of motivation and burnout
+3. Negative corporate environment impact
+4. Doubts about skill level for principal role
+5. Difficulty in gaining deep domain knowledge due to frequent job changes
+6. Lack of deliberate career investment and motivation for tech stack changes
+7. Struggle with focus shift and resistance in role allocation
+8. Gender bias and lack of effective mentoring opportunities
+9. Feeling angry and defeated losing joy & passion
+10. Challenge in defining success and finding fulfillment in work
+1. Revealing too much about internal company operations can be seen as unprofessional.
+2. Being vague in explanations to avoid potential conflict or accusations.
+3. Using standard non-answers to avoid providing specific details.
+4. Crafting a professional reason for leaving that doesn't involve personal beliefs or values.
+5. Playing it safe in interviews by being concise and positive.
+6. Avoiding negative comments about previous employers to prevent red flags.
+7. Providing a generic reason for leaving without delving into specifics.
+8. Being cautious not to come across as someone who sparks conflict.
+9. Tailoring responses based on how deeply interviewers probe.
+10. Highlighting the need for aligning with company values without badmouthing past employers.
+1. Constant pressure to upskill to remain competitive in the market
+2. Difficulty in balancing constant study with other life demands
+3. Feeling unskilled compared to competition
+4. Exhaustion from continuous job hunting and skill development
+5. Fear of becoming obsolete due to rapidly changing technology trends
+6. Frustration with the expectation of 3-5 years experience in new technologies
+7. Risk of burnout from recurring career challenges
+8. Struggle to differentiate between media hype and essential skills
+9. Overwhelming amount of technological options to learn and understand
+10. Concern about the need to learn new technologies beyond job requirements. Challenges extracted from the comments and content:
+1. Management being a different job with more responsibility and less control over building things.
+2. Difficulty in being hired externally as a manager without prior managerial experience.
+3. Skills and mindset evaluation required for transitioning to a managerial role as it involves less coding and more people management.
+4. Autonomy may not be as high as perceived especially when faced with limitations from management.
+5. The need for ongoing skill investments and mentorship when transitioning to a managerial role.
+6. Challenges in balancing autonomy technical skills and managerial responsibilities.
+7. Potential lack of promotion opportunities for new managers within companies.
+8. Transitioning from IC to EM may require significant skill adjustments and may not align with existing technical expertise.
+9. Struggles with time management and balancing technical work with team management as an engineering lead.
+10. Pressure in managerial roles to manage relationships with direct reports and senior management effectively.
+1. Finding a less stressful job within the software industry
+2. Concern about stress being more about the company than the profession
+3. Burnout and need for a break
+4. Desire to explore other career paths outside of software development
+5. Uncertainty and mid-life crisis triggered by team dynamics and company culture
+6. Seeking advice on transitioning to lower-stress roles like project manager product analyst etc.
+7. Considering a change in profession or industry
+8. Pressure to leave a current stressful job
+9. Exploration of alternative retirement dreams and job opportunities
+10. Exploring non-traditional tech-related roles such as DevOps sales engineering or teaching
+- Imposter syndrome
+- Transitioning mindset from junior/medior to senior/solutions architect
+- Handling high expectations in a new senior role
+- Establishing goals and expectations with new employer
+- Transitioning smoothly and ramping up quickly
+- Avoiding the urge to immediately implement changes based on previous experiences
+- Being methodical and systematic in the transition process
+- Balancing humility with the expectation of knowing your field well
+- Listening and observing before suggesting changes or new ideas
+- Managing the adjustment to new design paradigms and technologies
+1. Industry shift towards technical roles
+2. Imposter syndrome regarding technical expertise
+3. Need for deeper technical knowledge for career prospects
+4. Preference for technical EMs from experienced devs
+5. Struggle of non-technical EMs to contribute to IC work
+6. Requirement for technical proficiency in leadership roles
+7. Concern about difficulty in landing another EM role without technical expertise
+8. Need for EM to understand technical aspects for effective management
+9. Risk of ineffective management without technical experience
+10. Challenges in being a non-technical EM and identifying technology expertise
+1. **Navigating Team Dynamics**: Understand the existing team dynamics leads and relationships to integrate smoothly without disrupting the workflow.
+2. **Onboarding Process**: Take initiative in onboarding by identifying key individuals to connect with and proactively seeking introductions to relevant people in the organization.
+3. **Learning and Absorbing**: Take time to absorb the new codebase and processes before suggesting changes or making significant contributions to avoid potential challenges and misunderstandings.
+4. **Establishing Relationships**: Focus on building relationships with colleagues by asking simple questions showing genuine interest and engaging in non-work-related conversations.
+5. **Asking Questions**: Emphasize the importance of asking questions even if they may seem basic to accelerate learning and integration into the new environment.
+6. **Communicating Effectively**: Master the art of effective communication with different stakeholders understanding their preferences and adapting to various communication styles within the organization.
+7. **Delivering Value**: Demonstrate your value by delivering results efficiently and professionally keeping a balance between proving your capabilities and avoiding burnout.
+8. **Understanding Organizational Culture**: Learn and adapt to the organizational culture including how things are done unwritten rules and the general tone of interactions within the company.
+9. **Managing Expectations**: Set realistic expectations for yourself by acknowledging the learning curve and understanding that it takes time to make a significant impact in a new role.
+10. **Avoiding Negative Impact**: Be cautious about asserting too much influence or criticizing existing processes too soon as it may undermine relationships and hinder your integration process.
+1. Not keeping up with the transition in software development and managing legacy JS code
+2. Lack of experience with modern ECMA and essential tools like Git
+3. Stagnation in skills and falling behind in the industry
+4. Need to learn newer frameworks like React or Vue
+5. Importance of soft skills in a professional setting
+6. Difficulty in finding job opportunities with outdated tech stack
+7. Overcomplicating the learning process and underestimating own abilities
+8. Reluctance to learn new technologies and frameworks
+9. Not defining oneself as a software developer with a broad skill set beyond a specific framework
+10. Potential challenges transitioning to project management or other non-technical roles due to technical background
+- Tough job market lower expectations to get back in
+- Concerns about being "best pick" on paper
+- Transitioning back to tech from game development
+- Skills developed in game dev may not stand out on paper
+- Leveraging transferable skills from game dev to tech
+- Taking an intermediate job to kickstart career
+- Adding experience as a business owner as a bonus to profile
+- Feeling discouraged by rejections affecting self-esteem
+- Reentering the workforce after a career break
+- Making clear the game dev experience as past not current on resume
+1.  Uncertainty about startup idea and direction
+2.  Legal constraints with current employer
+3.  Need for a like-minded co-founder with complementary skills
+4.  Balancing full-time job with startup work
+5.  Outsourcing accounting and legal services
+6.  Importance of marketing and outsourcing
+7.  Building relationships and networking
+8.  Start with contracting or consulting
+9.  Consider joining an early-stage high-growth company
+10.  Skill set transition from big tech to startup environment
+- Socially isolating nature of coding
+- Difficulty finding fulfillment from quietly coding all day
+- Struggling with lack of human interaction in engineering
+- Challenges of transitioning to a people-focused role
+- Feeling disconnected from colleagues and the team
+- Need for more human-centric day-to-day tasks
+- Lack of satisfaction from technical development roles
+- Desire to work in roles involving more collaboration
+- Uncertainty about career direction and options
+- Overwhelming focus on meetings and lack of real work
+- Gamedev is highly technical and requires knowledge of niche topics.
+- Stiff competition for entry-level positions.
+- Long development timelines in game projects.
+- Low pay and unstable income in the gamedev industry.
+- Lack of creative control and influence over game quality.
+- Expectation of long working hours and poor work-life balance in game development.
+- Difficulty in transitioning to game development without prior experience.
+- Limited job opportunities for newcomers due to the complexity and nature of the industry.
+- Unrealistic expectations regarding game development as a career choice.
+- High market competition crowded market and low wages in the gamedev industry.
+- QA job transition into full-time coding
+- Lack of catching bugs compared to previous QA team
+- Devs not owning quality
+- Difficulty in finding good automation engineers
+- Perception that automated testing is not important
+- Hiring individuals with background mismatch
+- Insufficient domain knowledge among QA
+- Disconnect between manual and automated testing roles
+- Perception of QA as lower-status roles
+- Confusion over the role and importance of test automation
+1. Java has more job opportunities
+2. Java has a mature platform and a well-supported ecosystem
+3. Java has a lot of boilerplate code and forced OOP
+4. Java is associated with working on legacy code
+5. Golang is easier to pick up and has less boilerplate
+6. Golang has a poorly designed language with weak type system
+7. Golang has issues with error handling and nil pointers
+8. Golang is popular in the infrastructure space
+9. Golang is considered easy to learn with core packages managed by Google
+10. Java is more widely spread in enterprise jobs with C# as an alternative
+- Customer service job with back-to-back calls
+- Uncertain career transition with no interviews for data-related roles
+- Concern over potential scammy and possibly illegal aspects of the sales job offer
+- Feeling of failure and giving up hope on landing a data-related job
+- Need to pay back for training if leaving the sales job early
+- Advice to leverage call center metrics experience for job applications
+- Encouragement to keep applying to data science/IT jobs
+- Recommendation to take the safer option of the customer service job
+- Suggestion to network within the second job for possible internal transfers
+- Disdain towards the idea of double relocating and paying back for training on the sales job
+1. Finding relevant job titles in the IT support field
+2. Ensuring potential job opportunities are not missed
+3. Dealing with job listings that include engineer and analyst roles alongside desktop support descriptions
+4. Navigating job search websites and resources for IT roles
+5. Building qualifications and skills to match different IT support job titles
+6. Considering managed services companies for diverse support experiences
+7. Adapting to the fast-paced and unpredictable nature of daily support tasks
+8. Seeking guidance on job search strategies specific to IT support roles
+9. Filtering out non-support roles that may be included in IT support job listings
+10. Utilizing job search tools and bots to enhance the job search process.
+1. Working for an MSP or VAR may lead to eventual dissatisfaction due to management practices and lack of downtime for learning new technologies.
+2. Utilizing LinkedIn for networking and connecting with tech groups customers and recruiters is recommended for job opportunities.
+3. Regional differences in job market and recruiter availability are important to consider with a focus on New England area for potential opportunities.
+4. Concern about the compatibility of freelance IT experience with larger companies where tasks might be handled by helpdesk or third-party companies.
+5. Limited options for job roles that align with IT consultant skills and pay expectations with potential suggestions to consider non-profit or public sector for better appreciation.
+6. Importance of having reliable backup assistant or apprentice to handle workload and improve efficiency.
+7. Challenges with balancing billable hours with non-billable work such as marketing and administrative tasks.
+8. Experience of transitioning from contract to permanent roles with gradual salary increases over time.
+9. Appreciation for the ability to set pricing as a freelance consultant based on client relationships and proposals.
+10. Acknowledgment of challenges faced by IT professionals in terms of workload and subcontracting tasks.
+1. Pivoting to DevOps instead of data management
+2. Questioning future career path
+3. Desire to develop in DevOps
+4. Seeking FTE position
+5. Considering roles in DevOps vertical
+6. Uncertainty about career as contractor vs. direct employee
+7. Concern about stability in advertising industry
+8. Uncertainty about transition to new role
+9. Balancing salary increase with job stability
+10. Feeling uncertain about career path and future
+1. Additional password to remember
+2. Fear of job becoming more difficult
+3. Concerns about virus spreading via compromised admin account
+4. Initial resistance to change but eventual acceptance after adjustment period
+5. Lack of accountability with shared admin account
+6. Hassle of closing programs to switch between regular and admin accounts
+7. Potential security risks with shared admin account
+8. Challenge of relogging for admin privileges
+9. Cultural adjustment from local admin access to restricted access
+10. Frustration at having to seek permission for basic tasks on user machines.
+1. Transferability of Knowledge to Another Job
+2. Limited Demand for Apple IT Professionals in Enterprise Environment
+3. Difficulty Finding Technical Support for Apple Systems
+4. Importance of Doing Research and Homework
+5. Learning Mac OS quickly out of Necessity
+6. Varied Complexity of Job Depending on Company Needs
+7. Importance of Having Proper Management Tools
+8. Budget Considerations for Management Tools
+9. Supporting Mixed Platform Environments
+10. Importance of Brushing Up Skills on Mac OS.
+- Personality fit rewards responsibility job satisfaction networking opportunities
+- Choosing based on enjoyment not arbitrary opinions
+- Development experience benefits product managers
+- Perceived step backward in career.path
+1. First-time IT management role difficult to navigate
+2. Unclear if MSP is subpar or stuck in a bad partnership
+3. Need to take on significant challenges to solve underlying issues
+4. Managing an MSP can be time-consuming
+5. Building relationships and trust with existing MSP
+6. Balancing priorities between technical and process-oriented tasks
+7. Challenges associated with wearing multiple hats in IT management
+8. Importance of clear KPIs and career progression path
+9. Potential difficulty with IT under HR instead of CIO/CTO 
+10. Need for budget approval and support from upper management
+- Need professional experience before moving into management
+- Obtaining relevant certifications such as Scrum Master and PMP
+- Difficulty in transitioning from developer to manager
+- Potential decrease in salary when moving into management roles
+- Ageism impacting career progression
+- Focusing on project management skills
+- Uncertainty about personal interests in managing projects or people
+- Balancing technical expertise with management skills
+- Importance of staying connected to the industry when transitioning to management
+- Considering the necessity of an MBA for higher leadership roles
+1. Concerns about lack of technical skills and experience in transitioning to IT management
+2. Feeling pressured and unsure about career prospects
+3. Fear of being viewed as an imposter or not being ready for a management role
+4. Potential social challenges and sexist biases faced as a female in IT leadership
+5. Imposter syndrome and self-doubt regarding leadership abilities
+6. Limited opportunities for technical growth in a management role
+7. Need for strong mentorship and coaching in a management position
+8. Challenges in earning respect and trust from more experienced technical staff
+9. Balancing managing people and technical responsibilities
+10. Potential for failure due to lack of technical expertise in a management role.
+1. Lack of management experience for such a challenging role
+2. Difficulty in building an entire IT department from scratch
+3. Uncertainty around the performance of the current MSP
+4. Concerns about IT being placed under HR potentially hindering efficiency
+5. Need for clear authority and budget allocation for running the IT department
+6. Importance of understanding the company's upper management culture towards IT
+7. Keeping track of and demonstrating the value generated by IT projects
+8. Balancing technical and process-oriented improvements within the department
+9. Potential challenges in dealing with a chaotic company environment
+10. Managing expectations and KPIs to reach the envisioned CIO/CTO position
+1. Difficulty transitioning out of IT management role
+2. Concerns about salary and benefits as an IT manager
+3. Challenges in making lateral moves within or to new companies
+4. Balancing technical expertise with management responsibilities
+5. Uncertainty about future career growth opportunities within current company
+6. Prioritizing personal and family needs in career decisions
+7. Experience with layoffs impacting career progression
+8. Adjustment to changes in work-life balance and job security
+9. Comparing salary potential and career progression between different IT roles
+10. Importance of gaining experience and demonstrating leadership capabilities for higher-level roles.
+1. Role confusion: Juggling between managerial and technical responsibilities
+2. Imposter syndrome: Feeling inadequate and out of depth in meetings and tasks
+3. Lack of technical expertise: Struggling with tasks like code reviews and infrastructure diagrams
+4. Team management challenges: Ensuring team engagement and skill development
+5. Inadequate documentation: Facing difficulties due to lack of clear documentation
+6. Support from superiors: Feeling distant and unsupported by boss
+7. Professional development: Need for training and upskilling in certain areas
+8. Transition challenges: Adapting from a project management background to a technical management role
+9. Mental health impact: Stress and anxiety affecting overall well-being
+10. Job fit assessment: Evaluating if the current role aligns with skills and career goals
+1. Convincing business managers to make the right decisions and allocate resources
+2. Adjusting priorities and goals when transitioning to a managerial role
+3. Feeling drained from being more people-focused than task-focused
+4. Managing people can be challenging and draining especially for introverts
+5. Managing employee and personality issues
+6. Difficulty in finding other job opportunities as a tech manager
+7. The need for a strong reason to transition to a managerial role
+8. Not assuming employees will complete tasks as expected
+9. Feeling lonely as a manager due to maintaining a professional distance
+10. Increased stress levels and potential for significant career growth.
+1. Need to showcase leadership experience on the resume not just certifications
+2. Strive to be a leader not just a manager
+3. Importance of mentorship from a previous impactful manager
+4. Recommended reading of Dale Carnegie's works specifically "How to Win Friends and Influence People"
+5. Consider pursuing an MSIS degree for career advancement
+6. Difficulty in letting go of being the primary "doer" as a tech person
+7. Importance of being approachable and foreseeing potential challenges as a leader
+8. Focus on networking especially at training classes and conferences
+9. Importance of nurturing relationships with colleagues at all levels
+10. Identify and mentor a capable worker for succession planning in current role
+1. Struggling to handle technical aspects in new role.
+2. Feeling incompetent due to lack of familiarity with technical aspects.
+3. Inability to support developers effectively.
+4. Unable to complete technical tasks successfully.
+5. Feeling useless in meetings.
+6. Sleep and weight being affected by job challenges.
+7. Considering lower salary in new Project Manager role.
+8. Facing demoralizing treatment from other managers.
+9. Potential risk of not passing probation period in current role.
+10. Perception of people mocking abilities behind back.
+1. Lack of technical IT experience
+2. Concerns about transitioning directly into IT management
+3. Need for empathy and flexibility in management style
+4. Avoiding a dictatorial leadership approach
+5. Challenge in proving technical knowledge and skills during interviews
+6. Competition with candidates having more IT experience
+7. Importance of understanding IT services and management procedures
+8. Potential preference for military veterans in certain organizations
+9. Need for hands-on technical experience or qualifications
+10. Emphasis on people management and soft skills for IT management success
+1. Limited experience with recruiters
+2. Negative perception of recruiters due to bad experiences
+3. Need to set LinkedIn to indicate open to job opportunities
+4. Importance of networking with industry contacts
+5. Uncertainty in finding a reputable recruiter
+6. Lack of knowledge on how to identify good recruiters
+7. Challenges in finding a recruiter who is genuinely helpful
+8. Concerns about new job environment and adapting to it
+9. Pressure to demonstrate value in management roles
+10. Seeking guidance on career advancement strategies.
+- Salary increase expectations
+- Learning resources overwhelm
+- Seeking respect and recognition in the workplace
+- Transitioning roles within the company
+- Challenges in career progression with certifications
+- Employer reimbursement disparities
+- Relevance of certifications in job roles
+- Leveraging connections for career opportunities
+- Skill relevance in practical job settings
+- Transitioning from helpdesk to specialized roles.
+- Downtrend in traditional network engineer roles leading to drop in IT inhouse staff
+- Increasing demand for coding-related roles and network automation engineers
+- Need for automation experience or coding skills in network roles
+- Uncertainty about the lucrativeness of RF engineering
+- Recommendation to focus on Wi-Fi after obtaining CCNA certification
+- Potential opportunity to work as a Cisco Networking Academy instructor
+- Variety of resources available for CCNA preparation and training
+- Testimonials on the positive impact of CCNA certification
+- Importance of enjoying the field and having basic aptitude for success in IT networking careers
+Ageism concerns
+Perceived difficulty of pursuing the CCNA exam at an older age
+Time pressure to start and complete the CCNA certification
+Overcoming self-doubt regarding career change
+Experienced professionals sharing successful certification journeys
+Importance of continuous learning and certifications
+Job market challenges and industry demands for certifications
+Balancing experience and certifications in job applications
+Age as a factor in hiring decisions
+Competition from younger candidates with more experience.
+1. Transitioning from a non-IT role directly into networking without helpdesk experience
+2. Concerns about relevance of current database administrator role for transitioning to networking
+3. Uncertainty about the transferability of skills from database administration to networking
+4. Comparison of salary prospects between different IT roles
+5. Lack of clarity on how database administration experience aligns with networking career path
+6. Desire to obtain CCNA certification for transitioning into networking
+7. Perception that starting in helpdesk is a common path in IT careers
+8. Contrasting views on the necessity of beginning in helpdesk role for networking career
+9. Lack of confidence in transitioning to networking without traditional IT support experience
+10. Perceived advantages and disadvantages of different entry points into an IT career.
+- Need to highlight experience in CV
+- Difficulties transitioning from telecom to network engineering
+- Struggles getting noticed by companies
+- Consider applying for general IT roles first
+- Lack of hands-on experience with routers and switches
+- Limited opportunities for telcom engineers in networking
+- Over-reliance on influencers and misinformation about certifications
+- Seeking advice on progressing within current company or seeking roles elsewhere
+- Challenges in balancing exam preparation with hands-on experience
+- Difficulty in getting responses or job offers despite years of experience
+1. Uncertainty about job prospects after passing CCNA
+2. Burnout in current role with no clear career path
+3. Lack of rapport with new manager post-reorganization
+4. Challenges in transitioning from NOC to network engineering
+5. Difficulty in finding a fitting role post-CCNA certification
+6. Variability in pay expectations for network engineer positions
+7. Balancing field experience with theoretical certifications
+8. Need for practical experience beyond CCNA for employment
+9. Importance of broad IT skill set beyond vendor certifications
+10. Necessity to acquire diverse skills beyond network basics.
+1. Choosing between certifications and formal education
+2. Deciding on switching programs or pursuing a degree route
+3. Balancing work experience and certifications
+4. Uncertainty about the value of certifications vs. degrees in the job market
+5. Lack of hands-on experience due to limited job opportunities
+6. Balancing academic workload with certification preparation
+7. Determining the impact of certifications on job prospects in Canada
+8. Limited understanding of the specific skills and knowledge required in the Networking field
+9. Concerns about the practical application of theoretical knowledge in a job
+10. Seeking guidance on career progression and the ideal path to follow.
+NOC to network engineer transition is unlikely
+may require help desk experience first
+uphill battle for transition
+need to start by getting Network+ and/or CCNA
+uncertain feasibility of transition
+gap in relevant experience for networking roles
+potential need for additional certifications
+challenge of transitioning without recent IT experience
+unsure about compatibility of data skills with networking roles
+necessity of hands-on experience for network tech position.
+Professional work experience advantage
+Limited job market optimism
+Urgency in upskilling and certification
+Concerns regarding job outlook
+Need for proactive job application
+Encouragement for pursuing CCNA
+Mixed perceptions on market recovery
+Importance of completing education
+Doubt about opportunities for networking newbies.
+1. Lack of advancement opportunities within current company many roles outsourced abroad
+2. Concerns about making more lateral career moves than necessary with certifications
+3. Uncertainty about transitioning from entry-level to higher positions even with CCNA certification
+4. Desire to escape financial purgatory and achieve financial freedom
+5. Questioning whether to stick with software or transition to networking and related fields
+6. Not being a passionate tech enthusiast but seeking scalability and financial benefits
+7. Seeking advice from experienced professionals or those who have faced similar situations
+8. Importance of hands-on real-world experience alongside theoretical knowledge
+9. Opportunity to explore different roles within a small Managed Service Provider (MSP) to gain diverse experience
+10. Need to inquire about the technology stack offered by potential employers during interviews to align with career goals.
+Incomplete degree
+Age discrimination
+Transitioning from sales/technical support to cybersecurity
+Concerns about starting as a junior or intern at older age
+Competitive job market
+Perceived youth preference in the industry
+Balancing work and studying for certifications
+Lack of confidence due to age
+Limited time availability for completing certifications
+Uncertainty about career prospects in cybersecurity.
+1. Limited experience for a network engineer role
+2. Certifications do not replace experience
+3. Need to consider more junior roles like network help desk or network administrator
+4. Expectations for experience and knowledge in engineering roles
+5. High expectations for someone just starting their career
+6. Companies prefer experienced candidates to minimize onboarding time
+7. Age-related barriers in hiring for key IT positions
+8. Focus on professionalism and people skills in addition to technical qualifications
+9. Need for patience in career progression
+10. Balancing gaining experience with enjoying youth

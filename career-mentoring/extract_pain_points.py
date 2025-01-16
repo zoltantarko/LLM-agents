@@ -16,10 +16,10 @@ def extract_comment_pain_points(submissions):
         prompt = (
             f"Here is a Reddit post titled '{title}' with the following content:\n"
             f"{content}\n\n"
-            "The comments below express various views on the content. Extract 5 main pain points from the comments, "
+            "The comments below express various views on the content. Extract 10 main challenges from the comments, and the content"
             "considering the context provided in the title and content of the post:\n"
             "\n" + "\n".join(comments) + "\n\n"
-            "Return an itemized summary of the key pain points. The output should ONLY contain the comma-separated-answers"
+            "Return an itemized summary of the key pain points. The output should ONLY contain the itemized summary withe a comma-separated structure"
         )
 
         try:
@@ -30,7 +30,7 @@ def extract_comment_pain_points(submissions):
                     {"role": "system", "content": "You are an expert in understanding IT career challenges."},
                     {"role": "user", "content": prompt}
                 ],
-                max_tokens=500
+                max_tokens=1000
             )
 
             # Get and format the pain points from the response
@@ -53,7 +53,7 @@ def extract_comment_pain_points(submissions):
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-with open('cleaned_reddit_data.json', 'r', encoding='utf-8') as f:
+with open('cleaned_reddit_data_reviewed.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 # Extract pain points from comments

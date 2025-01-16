@@ -16,6 +16,33 @@ reddit = praw.Reddit(
 )
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
+def filter_reddit_data_with_chatgpt(data):
+    filtered_data = []
+    decision_check = []
+    for entry in data:
+        messages = [
+            {"role": "system", "content": "You are an expert in career transitions between IT subfields. Identify if the post provided to you are about career changes between IT subfields based on its title and content. Respond with ONLY 'yes' or 'no'."},
+            {"role": "user", "content": f"Title: {entry['title']}\nContent: {entry['content']}"}
+        ]
+        try:
+            response = client.chat.completions.create(
+                model="gpt-3.5-turbo",
+                messages=messages,
+                max_tokens=100
+            )
+            decision = response.choices[0].message.content.strip().lower()
+            if "yes" in decision:
+                filtered_data.append(entry)
+            verdict = f"Relevant: {decision}, Submission: {entry['title']}"
+            decision_check.append(verdict)
+        except Exception as e:
+            print(f"Error filtering entry with ChatGPT: {e}")
+            continue
+    with open("verdict_check_data.txt", "w") as f:
+        for item in decision_check:
+            f.write(f"{item}\n")
+    return filtered_data
+
 # Fetch subreddits from the Reddit API
 def get_relevant_subreddits(keyword):
     url = f"https://www.reddit.com/subreddits/search.json"
@@ -41,7 +68,20 @@ def get_relevant_subreddits(keyword):
 # Use ChatGPT to filter the subreddits
 def filter_subreddits_with_chatgpt(subreddits):
     messages = [
-        {"role": "system", "content": "You are an expert in IT career transitions. Identify which of the following subreddits are the relevant for discussing IT career changes and challenges. Your output should ONLY contain the filtered subreddit list without any additional string."},
+        {"role": "system", "content": "You are an expert in career transitions between IT subfields. Identify which of the following subreddits are the relevant for discussing career changes between IT subfields and challenges. Your output should ONLY contain the filtered subreddit list without any additional string."},
+        {"role": "user", "content": f"Subreddits: {', '.join(subreddits)}"}
+    ]
+    response = client.chat.completions.create(
+        model="gpt-3.5-turbo",
+        messages=messages,
+        max_tokens=500
+    )
+    filtered_subreddits = response.choices[0].message.content.split(", ")
+    return filtered_subreddits
+
+def filter_submissions_with_chatgpt(subreddits):
+    messages = [
+        {"role": "system", "content": "You are an expert in career transitions between IT subfields. Identify which of the following subreddits are the relevant for discussing career changes between IT subfields and challenges. Your output should ONLY contain the filtered subreddit list without any additional string."},
         {"role": "user", "content": f"Subreddits: {', '.join(subreddits)}"}
     ]
     response = client.chat.completions.create(
@@ -63,8 +103,6 @@ def scrape_reddit(subreddits, keywords, limit=20):
                 print("Searching for keyword: ", keyword)
                 for submission in reddit.subreddit(subreddit).search(keyword, limit=limit):
                     print("Processing submission: ", submission.title)
-                    if keyword not in (submission.title or submission.selftext):
-                        continue
                     comments = [comment.body for comment in submission.comments if hasattr(comment, "body")]
                     data.append({
                         "title": submission.title,
@@ -83,20 +121,28 @@ def scrape_reddit(subreddits, keywords, limit=20):
 
         # Sleep to avoid hitting Reddit's rate limit
         time.sleep(1)
-    print("Collected subreddits: ",len(data))
+    print("Collected submissions: ",len(data))
     return data
 
 # Run the workflow
-search_term = "\"IT career\""
-subreddits = get_relevant_subreddits(search_term)
-print(f"Subreddits found: {subreddits}")
+#search_term = "\"IT career\""
+#subreddits = get_relevant_subreddits(search_term)
+#print(f"Subreddits found: {subreddits}")
 
 #filtered_subreddits = filter_subreddits_with_chatgpt(subreddits)
 filtered_subreddits = ['ITCareerQuestions', 'ITCareerAnalytics', 'sysadmin', 'CompTIA', 'ITCareers', 'itcareerswitch', 'InformationTechnology', 'careerguidance', 'itcareeradvice', 'ITCareer_Discussion', 'findapath', 'it', 'ITCareerSecrets', 'ITcareerNinja', 'cscareerquestions', 'ITCareerGuide', 'ExperiencedDevs', 'helpdeskcareer', 'ExperienceDevsRead', 'careeradvice', 'ITdept', 'ITManagers', 'ccna']
 print(f"Filtered Subreddits by ChatGPT: {filtered_subreddits}")
 
 data = scrape_reddit(filtered_subreddits, ["career change", "job transition"])
-with open("filtered_reddit_data.json", "w") as f:
+
+with open("scraped_reddit_data.json", "w") as f:
     json.dump(data, f, indent=4)
+
+filtered_data = filter_reddit_data_with_chatgpt(data)
+
+print("Submissions after the filtering: ",{len(filtered_data)})
+
+with open("filtered_reddit_data.json", "w") as f:
+    json.dump(filtered_data, f, indent=4)
 
 print("Scraping and filtering complete!")

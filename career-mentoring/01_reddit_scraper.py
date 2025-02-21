@@ -6,6 +6,7 @@ import requests
 from dotenv import load_dotenv
 from praw.exceptions import PRAWException
 import time
+import argparse
 
 # Load API keys
 load_dotenv()
@@ -15,6 +16,17 @@ reddit = praw.Reddit(
     user_agent=os.getenv("REDDIT_USER_AGENT")
 )
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+
+def clean_comment(comment):
+    """
+    Remove empty lines and lines with only whitespace, and replace internal line breaks with a space.
+    """
+    # Split the comment into lines, strip leading/trailing whitespace from each line, and remove empty lines
+    lines = [line.strip() for line in comment.split("\n") if line.strip()]
+    
+    # Join the lines back together with a single space (if you want to remove line breaks within comments)
+    return " ".join(lines)
 
 def filter_reddit_data_with_chatgpt(data):
     filtered_data = []
@@ -124,25 +136,96 @@ def scrape_reddit(subreddits, keywords, limit=20):
     print("Collected submissions: ",len(data))
     return data
 
-# Run the workflow
-#search_term = "\"IT career\""
-#subreddits = get_relevant_subreddits(search_term)
-#print(f"Subreddits found: {subreddits}")
+def scrape_single_post(url):
+    try:
+        # Extract submission ID from URL
+        submission_id = url.split("/")[-3]  # Reddit URLs follow the pattern /r/subreddit/comments/{id}/title
+        submission = reddit.submission(id=submission_id)
 
-#filtered_subreddits = filter_subreddits_with_chatgpt(subreddits)
-filtered_subreddits = ['ITCareerQuestions', 'ITCareerAnalytics', 'sysadmin', 'CompTIA', 'ITCareers', 'itcareerswitch', 'InformationTechnology', 'careerguidance', 'itcareeradvice', 'ITCareer_Discussion', 'findapath', 'it', 'ITCareerSecrets', 'ITcareerNinja', 'cscareerquestions', 'ITCareerGuide', 'ExperiencedDevs', 'helpdeskcareer', 'ExperienceDevsRead', 'careeradvice', 'ITdept', 'ITManagers', 'ccna']
-print(f"Filtered Subreddits by ChatGPT: {filtered_subreddits}")
+        # Fetch comments
+        submission.comments.replace_more(limit=None)  # Load all comments
+        comments = [comment.body for comment in submission.comments.list() if hasattr(comment, "body")]
 
-data = scrape_reddit(filtered_subreddits, ["career change", "job transition"])
+        # Store post data
+        post_data = {
+            "title": submission.title,
+            "content": submission.selftext,
+            "comments": comments
+        }
 
-with open("scraped_reddit_data.json", "w") as f:
-    json.dump(data, f, indent=4)
+        print("Single post scraping complete!")
+        return post_data
 
-filtered_data = filter_reddit_data_with_chatgpt(data)
+    except Exception as e:
+        print(f"Error scraping the post: {e}")
+        return None
 
-print("Submissions after the filtering: ",{len(filtered_data)})
+# Function to scrape multiple posts from a JSON file
+def scrape_multiple_posts(json_file):
+    try:
+        input_path = os.path.join("posts", json_file)  # Construct the full input file path
+        with open(input_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            urls = data.get("urls", [])
+        
+        if not urls:
+            print("No URLs found in the JSON file.")
+            return
+        
+        # Generate output filename based on input JSON filename
+        base_name = os.path.splitext(json_file)[0]  # Remove extension
+        output_filename = f"posts/{base_name}.txt"
 
-with open("filtered_reddit_data.json", "w") as f:
-    json.dump(filtered_data, f, indent=4)
+        with open(output_filename, "w", encoding="utf-8") as output_file:
+            for url in urls:
+                print(f"Scraping post: {url}")
+                post_data = scrape_single_post(url)
+                if post_data:
+                    output_file.write("**Post:**\n")
+                    output_file.write(post_data["title"] + "\n\n")
+                    output_file.write(post_data["content"] + "\n\n")
+                    output_file.write("**Comments:**\n")
+                    for comment in post_data["comments"]:
+                        cleaned_comment = clean_comment(comment)
+                        output_file.write(f"- {cleaned_comment}\n")
+                    output_file.write("=" * 80 + "\n\n")  # Separator between posts
+                time.sleep(1)  # Avoid hitting rate limits 
+        
+        print("Scraping complete! Data saved in 'multiple_posts_data.txt'.")
 
-print("Scraping and filtering complete!")
+    except Exception as e:
+        print(f"Error reading JSON file: {e}")
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Reddit Scraper")
+    parser.add_argument("mode", choices=["multiple_posts", "all"], help="Execution mode")
+    parser.add_argument("--json", type=str, default="posts.json", help="JSON file containing URLs (default: 'posts.json')")
+
+    args = parser.parse_args()
+
+    if args.mode == "multiple_posts":
+        scrape_multiple_posts(args.json)
+
+    elif args.mode == "all":
+        # Run the workflow
+        #search_term = "\"IT career\""
+        #subreddits = get_relevant_subreddits(search_term)
+        #print(f"Subreddits found: {subreddits}")
+
+        #filtered_subreddits = filter_subreddits_with_chatgpt(subreddits)
+        filtered_subreddits = ['ITCareerQuestions', 'ITCareerAnalytics', 'sysadmin', 'CompTIA', 'ITCareers', 'itcareerswitch', 'InformationTechnology', 'careerguidance', 'itcareeradvice', 'ITCareer_Discussion', 'findapath', 'it', 'ITCareerSecrets', 'ITcareerNinja', 'cscareerquestions', 'ITCareerGuide', 'ExperiencedDevs', 'helpdeskcareer', 'ExperienceDevsRead', 'careeradvice', 'ITdept', 'ITManagers', 'ccna']
+        print(f"Filtered Subreddits by ChatGPT: {filtered_subreddits}")
+
+        data = scrape_reddit(filtered_subreddits, ["career change", "job transition"])
+
+        with open("scraped_reddit_data.json", "w") as f:
+            json.dump(data, f, indent=4)
+
+        filtered_data = filter_reddit_data_with_chatgpt(data)
+
+        print("Submissions after the filtering: ",{len(filtered_data)})
+
+        with open("filtered_reddit_data.json", "w") as f:
+            json.dump(filtered_data, f, indent=4)
+
+        print("Scraping and filtering complete!")
